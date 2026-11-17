@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "next dev --hostname 0.0.0.0",
-    "build": "next build --webpack && node scripts/offline.mjs",
+    "build": "tsx scripts/lut-previews.ts && next build --webpack && node scripts/offline.mjs",
     "start": "node scripts/serve.mjs",
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",

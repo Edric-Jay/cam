@@ -1,4 +1,3 @@
-The bundled LUT reference photograph is from Unsplash:
-https://images.unsplash.com/photo-1470770841072-f978cf4d019e
+The bundled reference photograph is the mountain-and-lake image supplied by the user as `images.jpg` (480 × 640).
 
-Reference downloaded at 640 × 480. All look thumbnails use this same photograph with the corresponding cube applied at 100% intensity. Thumbnails are generated locally with `npm run previews:luts`, bundled with the app, and cached offline. Camera frames and imported user images are never used for the library thumbnails.
+All look thumbnails use the same centered crop with the corresponding cube applied at 100% intensity. Thumbnails are generated automatically during every production build, bundled with the app, and cached offline. Their URLs include a hash of the reference photograph to prevent stale thumbnails after a reference change. Camera frames and imported user images are never used for the library thumbnails. Ownership and redistribution rights remain with the original image owner.

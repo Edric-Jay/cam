@@ -14,7 +14,9 @@
       "OPEN - Cinematic Grade LUT\\2. Presetpro - Cinematic Grade\\Presetpro - Cinematic Grade.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-03e524662d256941f1c1.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "8431bf90ceb972b82b6a",
@@ -32,7 +34,9 @@
       "Presetpro - Cinematic Portrait.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-8431bf90ceb972b82b6a.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "eea6065351fc016b5eb7",
@@ -49,7 +53,9 @@
       "OPEN - Concrete Jungle LUT\\2. Presetpro - Concrete Jungle LUT\\Presetpro - Concrete Jungle.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-eea6065351fc016b5eb7.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "22f88c9b0decebe47a08",
@@ -66,7 +72,9 @@
       "OPEN - Daybreak LUT\\2. Presetpro - Daybreak LUT\\Presetpro - Daybreak.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-22f88c9b0decebe47a08.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "6672d813412cf1529bd6",
@@ -83,7 +91,9 @@
       "OPEN - Film Style LUT\\2. Presetpro - Film Style\\Presetpro - Film Style.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-6672d813412cf1529bd6.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "84a4b62c105b2c699928",
@@ -996,7 +1006,9 @@
       "OPEN - Fuji Astia LUT\\2. Presetpro - Fuji Astia LUT\\Presetpro - Fuji Astia.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-8e52b269ca7d129916d5.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "30de4d33093df4ee4ab6",
@@ -1013,7 +1025,9 @@
       "OPEN - Fuji Film LUTs Pro.zip!OPEN - Fuji Film LUTs/2. Presetpro - Fuji Film LUT/Presetpro - Fuji Film.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-30de4d33093df4ee4ab6.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "3a7c4b5849da94a1dcec",
@@ -1030,7 +1044,9 @@
       "OPEN - Fuji Portrait LUT\\2. Presetpro - Fuji Portrait LUT\\Presetpro - Fuji Portrait.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-3a7c4b5849da94a1dcec.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "e72f86bfa2db109ef8d1",
@@ -1267,7 +1283,9 @@
       "OPEN - Kodak Color LUTs Pro.zip!OPEN - Kodak Color LUTs/2. Presetpro - Kodak Color Pro/Presetpro - Kodak Color.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-20e4da37b22c091b54f6.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "3c9563258979bb8cb5da",
@@ -1284,7 +1302,9 @@
       "OPEN - Landscape LUTs Pro.zip!OPEN - Landscape LUTs/2. Presetpro - Landscape LUT/Presetpro - Landscape.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-3c9563258979bb8cb5da.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "9c20de79ce675309eb0e",
@@ -1301,7 +1321,9 @@
       "OPEN - Lomography LUT\\2. Presetpro - Lomography LUT\\Presetpro - Lomography.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-9c20de79ce675309eb0e.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "9391c05fd91cca4aeeb6",
@@ -1318,7 +1340,9 @@
       "OPEN - Moody Stock LUT\\2. Presetpro - Moody Stock LUT\\Presetpro - Moody Stock.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-9391c05fd91cca4aeeb6.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "e79352117dd22236bba6",
@@ -1335,7 +1359,9 @@
       "OPEN - Movie Film LUT\\2. Presetpro - Movie Film LUT\\Presetpro - Movie Film.CUBE"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-e79352117dd22236bba6.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "e79931ea02b6b83b9b60",
@@ -1352,7 +1378,9 @@
       "OPEN - Portra\\2. Presetpro - Porta\\Presetpro - Portra.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-e79931ea02b6b83b9b60.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "acbaaeb2489b60a04bff",
@@ -1369,7 +1397,9 @@
       "OPEN - Portrait LUTs Pro.zip!OPEN - Portrait LUTs/2. Presetpro - Portrait LUT/Presetpro - Portrait Film.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-acbaaeb2489b60a04bff.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "c550846ddce67da81685",
@@ -1386,7 +1416,9 @@
       "SceneryLUT.zip!OPEN - Scenery LUT/2. Presetpro - Scenery LUT/Presetpro - Scenery.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-c550846ddce67da81685.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "89cfada76aaf8f0d8586",
@@ -1403,7 +1435,9 @@
       "OPEN - Shades LUT.zip!OPEN - Shades LUT/2. Presetpro - Shades LUT/Presetpro - Shades LUT.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-89cfada76aaf8f0d8586.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "e6c871f6c18c6fadd11a",
@@ -1420,7 +1454,9 @@
       "OPEN - Valley Mist LUT Pro\\2. Presetpro - Valley Mist LUT\\Presetpro - Valley Mist.cube"
     ],
     "attribution": "Original LUT creator; see source metadata",
-    "compatibility": "unverified-display-rgb"
+    "compatibility": "unverified-display-rgb",
+    "previewUrl": "/look-previews/96ee13c1aed9-e6c871f6c18c6fadd11a.webp",
+    "referencePreviewUrl": "/look-previews/96ee13c1aed9-original.webp"
   },
   {
     "id": "b33b1d3b5176ebd44bae",

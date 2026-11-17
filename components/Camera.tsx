@@ -47,6 +47,8 @@ type Look = {
   input: string;
   bytes: number;
   compatibility: string;
+  previewUrl?: string;
+  referencePreviewUrl?: string;
 };
 type Range = { min: number; max: number; step?: number };
 type Caps = Record<string, Range | string[] | boolean[] | undefined>;
@@ -181,7 +183,7 @@ export default function Camera() {
     [fillLight,setFillLight]=useState('off');
   const selectedLook = manifest.find((x) => lookId==='default'?x.name==='Portra':x.id === lookId);
   const lookName = selectedLook?.name || "Original";
-  const thumbnails: Record<string,string> = Object.fromEntries([["original","/look-previews/original.webp"], ...manifest.filter(l=>l.category==="creative").map(l=>[l.id,`/look-previews/${l.id}.webp`])]);
+  const thumbnails: Record<string,string> = Object.fromEntries([["original",manifest.find(l=>l.referencePreviewUrl)?.referencePreviewUrl||"/look-previews/original.webp"], ...manifest.filter(l=>l.category==="creative").map(l=>[l.id,l.previewUrl||`/look-previews/${l.id}.webp`])]);
   const aspect = portrait ? ratioValues[ratio] : 1 / ratioValues[ratio];
   const isMirrored = !imported && settings.facingMode === "user" && mirror;
   const latest = useRef({
@@ -195,6 +197,11 @@ export default function Camera() {
   latest.current = { ready, imported, aspect, strength, original, isMirrored };
   const latestUrl = useBlobUrl(photos[0]?.blob),
     photoUrl = useBlobUrl(selectedPhoto?.blob);
+  const applyUpdate = () => {
+    if (!update || busy) return;
+    navigator.serviceWorker.addEventListener('controllerchange',()=>location.reload(),{once:true});
+    update.postMessage('SKIP_WAITING');
+  };
   useEffect(()=>{if(!panel&&!selectedPhoto)return;const prior=document.activeElement as HTMLElement|null;const dialogs=document.querySelectorAll<HTMLElement>('[role="dialog"]');const dialog=dialogs[dialogs.length-1];const targets=()=>Array.from(dialog.querySelectorAll<HTMLElement>('button:not(:disabled), input:not(:disabled), select:not(:disabled), summary')).filter(el=>el.getClientRects().length>0);targets()[0]?.focus();const key=(e:KeyboardEvent)=>{if(e.key==='Escape'){e.preventDefault();if(selectedPhoto)setSelectedPhoto(null);else setPanel(null);}if(e.key==='Tab'){const items=targets(),first=items[0],last=items[items.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last?.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first?.focus();}}};document.addEventListener('keydown',key);return()=>{document.removeEventListener('keydown',key);prior?.focus();};},[panel,selectedPhoto]);
   const syncTrack = useCallback(() => {
     const track = stream.current?.getVideoTracks()[0];
@@ -292,7 +299,7 @@ export default function Camera() {
   useEffect(() => {
     if ("serviceWorker" in navigator && process.env.NODE_ENV === "production") {
       navigator.serviceWorker
-        .register("/sw.js")
+        .register("/sw.js", {updateViaCache:'none'})
         .then((reg) => {
           if (reg.waiting) setUpdate(reg.waiting);
           reg.addEventListener("updatefound", () => {
@@ -1016,6 +1023,7 @@ export default function Camera() {
         aria-label="Import photo file"
         onChange={(e) => void importImage(e.target.files?.[0])}
       />
+      {update && !busy && <div className="update-notice" role="status"><span>New version ready — refresh to see the latest looks.</span><IconButton label="Refresh app to apply update" onClick={applyUpdate}><Download/></IconButton></div>}
       {(error || message) && (
         <div
           className={`toast ${error ? "error" : ""} ${selectedPhoto ? "photo-toast" : ""}`}
@@ -1376,12 +1384,7 @@ export default function Camera() {
                       label="Apply update and reload"
                       disabled={busy}
                       onClick={() => {
-                        update.postMessage("SKIP_WAITING");
-                        navigator.serviceWorker.addEventListener(
-                          "controllerchange",
-                          () => location.reload(),
-                          { once: true },
-                        );
+                        applyUpdate();
                       }}
                     >
                       <Download />

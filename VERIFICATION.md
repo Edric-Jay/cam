@@ -1,5 +1,12 @@
 # Verification — 17 November 2026
 
+## User-supplied reference photo update
+
+- Replaced the reference with the user's `images.jpg`; generated 19 versioned WebP thumbnails (Original plus 18 graded looks).
+- Production builds now regenerate previews automatically. Offline-cache revisions include asset bytes, and the app exposes an update notice outside Settings.
+- Production build, TypeScript and lint passed. Targeted browser tests passed for thumbnail loading before camera access, unchanged thumbnails after image import, offline thumbnail loading, and the existing capture/offline workflow.
+- GitHub still points to the initial app commit `1243521`; the earlier fixed-thumbnail commit was not uploaded because the available Git account lacks write access. This is separate from the verified local build.
+
 ## Fixed-reference thumbnails and camera-quality update
 
 - TypeScript, ESLint and production build passed.
