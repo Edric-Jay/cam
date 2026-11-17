@@ -64,9 +64,9 @@ type InstallEvent = Event & {
 const cubeCache = new Map<string, Cube>();
 async function loadCube(look: Look, previewOnly=false) {
   if (previewOnly && cubeCache.has(look.id)) return cubeCache.get(look.id)!;
-  const response = await fetch(look.url+(previewOnly?'?preview=1':'')).catch(()=>{throw new Error('This look is not downloaded. Connect to download it.');});
+  const response = await fetch(look.url+(previewOnly?'?preview=1':'')).catch(()=>{throw new Error('This look could not load. Connect to the internet and try again.');});
   if (!response.ok)
-    throw new Error("This look is not downloaded. Connect to download it.");
+    throw new Error("This look could not load. Connect to the internet and try again.");
   const sourceText = await response.text();
   const cube = parseCube(sourceText);
   if(!previewOnly&&'caches'in window){try{const cache=await caches.open('camlut-looks-v1');await cache.put(look.url,new Response(sourceText,{headers:{'Content-Type':'text/plain'}}));const keys=await cache.keys();if(keys.length>16)await cache.delete(keys[0]);}catch{/* Capture works even if offline storage is unavailable. */}}
@@ -1102,7 +1102,7 @@ export default function Camera() {
                 <div className="library-note">
                   <span>{visibleLooks.length} creative looks</span>
                   <span>
-                    {offline ? "Offline" : "Select a look to download"}
+                    {offline ? "Offline" : "Select a look to apply"}
                   </span>
                 </div>
                 <div className="looks-grid">
@@ -1164,10 +1164,10 @@ export default function Camera() {
                         <strong>{l.name}</strong>
                         <small>
                           {downloaded.includes(l.id)
-                            ? "Downloaded"
+                            ? "Available offline"
                             : offline
                               ? "Needs connection"
-                              : `${Math.round(l.bytes / 1024)} KB`}
+                              : "Included"}
                         </small>
                       </button>
                       <IconButton

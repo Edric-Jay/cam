@@ -1,0 +1,1170 @@
+{
+  "catalog": "https://www.freepresets.com/product-category/free-luts-color-lookup-table/",
+  "added": 120,
+  "duplicates": 46,
+  "total": 212,
+  "report": [
+    {
+      "archive": "1710069108wpdm_LUTsFashionFilmPresetpro.zip",
+      "entry": "OPEN - Fashion Film LUT/2. Presetpro - Fashion Film LUT/Presetpro - Fashion Film.cube",
+      "status": "Added",
+      "id": "3cbff2b648ca21c9f857",
+      "name": "Fashion Film"
+    },
+    {
+      "archive": "ColorNegativeLUTPresetpro.zip",
+      "entry": "OPEN - Color Negative LUT/2. Presetpro - Color Negative LUT/Presetpro - Color Negative.cube",
+      "status": "Added",
+      "id": "aa9e63a144a4058dc1ca",
+      "name": "Color Negative"
+    },
+    {
+      "archive": "LUTCinematicPortraitPresetpro.zip",
+      "entry": "OPEN - Cinematic Portrait LUT/2. Presetpro - Cinematic Portrait LUT/Presetpro - Cinematic Portrait.cube",
+      "status": "Duplicate skipped",
+      "id": "8431bf90ceb972b82b6a",
+      "name": "Cinematic Portrait"
+    },
+    {
+      "archive": "LUTDisposable400Presetpro.zip",
+      "entry": "OPEN - Disposable 400 LUT/2. Presetpro - Disposable 400 LUT/Presetpro - Disposable 400.cube",
+      "status": "Added",
+      "id": "61f765b7b6885bc7acc0",
+      "name": "Disposable 400"
+    },
+    {
+      "archive": "LUTFujiPortraitPresetpro.zip",
+      "entry": "OPEN - Fuji Portrait LUT/2. Presetpro - Fuji Portrait LUT/Presetpro - Fuji Portrait.cube",
+      "status": "Duplicate skipped",
+      "id": "3a7c4b5849da94a1dcec",
+      "name": "Fuji Portrait"
+    },
+    {
+      "archive": "LUTPastryPresetpro.zip",
+      "entry": "OPEN - Pastry LUT/2. Presetpro - Pastry LUT/Presetpro - Pastry.cube",
+      "status": "Added",
+      "id": "31c9b48f4044080ad027",
+      "name": "Pastry"
+    },
+    {
+      "archive": "LUTSAgfaUltraPresetpro.zip",
+      "entry": "OPEN - Agfa Ultra LUT/2. Presetpro - Agfa Ultra/Presetpro - Agfa Ultra.cube",
+      "status": "Added",
+      "id": "d9d513eadf81889730eb",
+      "name": "Agfa Ultra"
+    },
+    {
+      "archive": "LUTs35mmPortraitPresetpro.zip",
+      "entry": "OPEN - 35mm Portrait LUT/2. Presetpro - 35mm Portrait LUT/Presetpro - 35mm Portrait.cube",
+      "status": "Added",
+      "id": "87aa359cd222f4ab2e0c",
+      "name": "35mm Portrait"
+    },
+    {
+      "archive": "LUTsAgfaOptimaPresetpro.zip",
+      "entry": "OPEN - Agfa Optima LUT/2. Presetpro - Agfa Optima LUT/Presetpro - Agfa Optima.cube",
+      "status": "Added",
+      "id": "e066fc69a8d50b3a94a6",
+      "name": "Agfa Optima"
+    },
+    {
+      "archive": "LUTsAgfaUltra100Presetpro.zip",
+      "entry": "OPEN - Agfa Ultra LUT/2. Presetpro - Agfa Ultra LUT/Presetpro - Agfa Ultra 100.cube",
+      "status": "Added",
+      "id": "c8fd5b098153b23a889a",
+      "name": "Agfa Ultra (2)"
+    },
+    {
+      "archive": "LUTsAgfaVistaPresetpro.zip",
+      "entry": "OPEN - Agfa Vista LUT/2. Presetpro - Agfa Vista LUT/Presetpro - Agfa Vista.cube",
+      "status": "Added",
+      "id": "c3f17d5c108d48a74c5c",
+      "name": "AGF 11 - Vista"
+    },
+    {
+      "archive": "LUTsAmorePresetpro.zip",
+      "entry": "OPEN - Amore LUT/2. Presetpro - Amore LUT/Presetpro - Amore.cube",
+      "status": "Added",
+      "id": "8c0ab41bfa04e790c2b8",
+      "name": "Amore"
+    },
+    {
+      "archive": "LUTsBeachwoodPresetpro.zip",
+      "entry": "OPEN - Beachwood LUT Pro/2. Presetpro - Beachwood/Presetpro - Beachwood.cube",
+      "status": "Added",
+      "id": "ba62f0e46a154a55b410",
+      "name": "Beachwood"
+    },
+    {
+      "archive": "LUTsBirdsEyePro.zip",
+      "entry": "OPEN - Birds Eye LUT/2. Presetpro - Birds Eye LUT/Presetpro - Birds Eye.cube",
+      "status": "Added",
+      "id": "bc79682a2caa46d5c1b6",
+      "name": "Birds Eye"
+    },
+    {
+      "archive": "LUTsBoldFilmPresetpro.zip",
+      "entry": "OPEN - Bold Film LUT/2. Presetpro - Bold Film/Presetpro - Bold Film.cube",
+      "status": "Duplicate skipped",
+      "id": "c3f17d5c108d48a74c5c",
+      "name": "AGF 11 - Vista"
+    },
+    {
+      "archive": "LUTsChillenPresetpro.zip",
+      "entry": "OPEN - Chillen LUT/2. Presetpro - Chillen LUT/Presetpro - Chillen.cube",
+      "status": "Added",
+      "id": "142f1b5d403864e1bf9f",
+      "name": "Chillen"
+    },
+    {
+      "archive": "LUTsCineGradePresetpro.zip",
+      "entry": "OPEN - Cine Grade LUT/2. Presetpro - Cine Grade LUT/Presetpro - Cine Grade .cube",
+      "status": "Duplicate skipped",
+      "id": "bc79682a2caa46d5c1b6",
+      "name": "Birds Eye"
+    },
+    {
+      "archive": "LUTsCityVistaPresetpro.zip",
+      "entry": "OPEN - City Vista LUT/2. Presetpro - City Vista LUT/Presetpro - City Vista.cube",
+      "status": "Added",
+      "id": "1781491fc1a7b5e138ff",
+      "name": "City Vista"
+    },
+    {
+      "archive": "LUTsClassicChromePresetpro.zip",
+      "entry": "OPEN - Classic Chrome LUT/2. Presetpro - Classic Chrome LUT/Presetpro - Classic Chrome.cube",
+      "status": "Added",
+      "id": "b518398f60b1cdbbec48",
+      "name": "Classic Chrome"
+    },
+    {
+      "archive": "LUTsCoastalFilmPresetpro.zip",
+      "entry": "OPEN - Coastal Film LUT/2. Presetpro - Coastal Film/Presetpro - Coastal Film.cube",
+      "status": "Added",
+      "id": "f514317ee1983cda36e5",
+      "name": "Coastal Film"
+    },
+    {
+      "archive": "LUTsCoconutPresetpro.zip",
+      "entry": "OPEN - Coconut LUT Pro/2. Presetpro - Coconut LUT/Presetpro - Coconut.cube",
+      "status": "Added",
+      "id": "490885666e11df799dcc",
+      "name": "Coconut"
+    },
+    {
+      "archive": "LUTsColor400Presetpro.zip",
+      "entry": "OPEN - Color 400 LUT/2. Presetpro - Color 400/Presetpro - Color 400.cube",
+      "status": "Added",
+      "id": "fa996767eb301b3aea03",
+      "name": "Color 400"
+    },
+    {
+      "archive": "LUTsColorFilmPresetpro.zip",
+      "entry": "OPEN - Color Film LUT/2. Presetpro - Color Film LUT/Presetpro Color Film.cube",
+      "status": "Duplicate skipped",
+      "id": "87aa359cd222f4ab2e0c",
+      "name": "35mm Portrait"
+    },
+    {
+      "archive": "LUTsCopperPresetpro.zip",
+      "entry": "OPEN - Copper LUT/2. Presetpro - Copper LUT/Presetpro - Copper.cube",
+      "status": "Added",
+      "id": "2434c97d66c73444ca02",
+      "name": "Copper"
+    },
+    {
+      "archive": "LUTsCreativesPresetpro.zip",
+      "entry": "OPEN - Creatives LUT/2. Presetpro - Creative LUT/Presetpro - Creatives.cube",
+      "status": "Added",
+      "id": "50daf83b33bdb796eaf4",
+      "name": "Bright ++"
+    },
+    {
+      "archive": "LUTsDaybreakPresetpro.zip",
+      "entry": "OPEN - Daybreak LUT/2. Presetpro - Daybreak LUT/Presetpro - Daybreak.cube",
+      "status": "Duplicate skipped",
+      "id": "22f88c9b0decebe47a08",
+      "name": "Daybreak"
+    },
+    {
+      "archive": "LUTsDeepLightPresetpro.zip",
+      "entry": "OPEN - Deep Light LUT/2. Presetpro - Deep Light LUT/Presetpro - Deep Light.cube",
+      "status": "Added",
+      "id": "536dc0c143cd1418f63f",
+      "name": "Deep Light"
+    },
+    {
+      "archive": "LUTsDesertHeatPresetpro.zip",
+      "entry": "OPEN - Desert Heat LUT/2. Presetpro - Desert Heat/Presetpro - Desert Heat.cube",
+      "status": "Added",
+      "id": "403ccbb28940258e70d5",
+      "name": "Desert Heat"
+    },
+    {
+      "archive": "LUTsEktachromePresetpro.zip",
+      "entry": "OPEN - Ektachrome/2. Presetpro - Ektachrome/Presetpro - Ektachrome.cube",
+      "status": "Added",
+      "id": "39ef9ce4b57d1f4023d8",
+      "name": "Ektachrome"
+    },
+    {
+      "archive": "LUTsEliteChromePresetpro.zip",
+      "entry": "OPEN - Elite Chrome LUT/2. Presetpro - Elite Chrome LUT/Presetpro - Elite Chrome.cube",
+      "status": "Duplicate skipped",
+      "id": "b518398f60b1cdbbec48",
+      "name": "Classic Chrome"
+    },
+    {
+      "archive": "LUTsFashionFilmPresetpro.zip",
+      "entry": "OPEN - Fashion Film LUT/2. Presetpro - Fashion Film LUT/Presetpro - Fashion Film.cube",
+      "status": "Added",
+      "id": "ef1fd16ecdb404e94f84",
+      "name": "Fashion Film (2)"
+    },
+    {
+      "archive": "LUTsFashionPresetpro.zip",
+      "entry": "OPEN - Fashion LUT/2. Presetpro - Fashion LUT/Presetpro - Fashion.cube",
+      "status": "Added",
+      "id": "c7546a07e7661bf85198",
+      "name": "Fashion"
+    },
+    {
+      "archive": "LUTsFastFilmPresetpro.zip",
+      "entry": "OPEN - Fast Film LUT/2. Presetpro - Fast Film LUT/Presetpro - Fast Film.cube",
+      "status": "Added",
+      "id": "e4188caeda8b54b7898a",
+      "name": "Fast Film"
+    },
+    {
+      "archive": "LUTsFilmFadePresetpro.zip",
+      "entry": "OPEN - Film Fade LUT/2. Presetpro - Film Fade LUT/Presetpro - Film Fade.cube",
+      "status": "Added",
+      "id": "e48e6eebd989c2003291",
+      "name": "Film Fade"
+    },
+    {
+      "archive": "LUTsFilmicPresetpro.zip",
+      "entry": "OPEN - Filmic LUT/2. Presetpro - Filmic LUT/Presetpro - Filmic.cube",
+      "status": "Added",
+      "id": "796155a6f2b61002a936",
+      "name": "Filmic"
+    },
+    {
+      "archive": "LUTsFilmmakerPresetpro.zip",
+      "entry": "OPEN - Filmmaker LUT/2. Presetpro - Filmmaker LUT/Presetpro - Filmmaker.cube",
+      "status": "Added",
+      "id": "bfe274c0266166b7ea58",
+      "name": "Filmmaker"
+    },
+    {
+      "archive": "LUTsFlashbackPresetpro.zip",
+      "entry": "OPEN - Flashback LUT/2. Presetpro - Flashback/Presetpro - Flashback.cube",
+      "status": "Added",
+      "id": "9dcef49a7312674d251e",
+      "name": "Flashback"
+    },
+    {
+      "archive": "LUTsFoodiePresetpro.zip",
+      "entry": "OPEN - Foodie LUT/2. Presetpro - Foodie LUT/Presetpro - Foodie.cube",
+      "status": "Added",
+      "id": "178de18d32cf05297ea0",
+      "name": "Foodie"
+    },
+    {
+      "archive": "LUTsFreeSpiritPresetpro.zip",
+      "entry": "OPEN - Free Spirit LUT/2. Presetpro - Free Spirit LUT/Presetpro - Free Spirit.cube",
+      "status": "Added",
+      "id": "c4c459d58e13b1649121",
+      "name": "Free Spirit"
+    },
+    {
+      "archive": "LUTsFujiAstiaPresetpro.zip",
+      "entry": "OPEN - Fuji Astia LUT/2. Presetpro - Fuji Astia LUT/Presetpro - Fuji Astia.cube",
+      "status": "Duplicate skipped",
+      "id": "8e52b269ca7d129916d5",
+      "name": "Fuji Astia"
+    },
+    {
+      "archive": "LUTsFujiProviaPresetpro.zip",
+      "entry": "OPEN - Fuji Provia LUT/2. Presetpro - Fuji Provia LUT/Presetpro  - Fuji Provia.cube",
+      "status": "Duplicate skipped",
+      "id": "87aa359cd222f4ab2e0c",
+      "name": "35mm Portrait"
+    },
+    {
+      "archive": "LUTsGoldenLightPresetpro.zip",
+      "entry": "OPEN - Golden Light LUT/2. Presetpro - Golden Light LUT/Presetpro - Golden Light.cube",
+      "status": "Added",
+      "id": "70e37c1ebd08991f6566",
+      "name": "Golden Light"
+    },
+    {
+      "archive": "LUTsGoldenPro.zip",
+      "entry": "OPEN - Golden LUT Pro/2. Presetpro - Golden/Presetpro - Golden.cube",
+      "status": "Added",
+      "id": "606ca65857b3acf3bd19",
+      "name": "Golden"
+    },
+    {
+      "archive": "LUTsGoodVibesPresetpro.com.zip",
+      "entry": "OPEN - Good Vibes LUT/2. Presetpro - Good Vibes LUT/Presetpro - Good Vibes.cube",
+      "status": "Added",
+      "id": "48a42d27618744228a05",
+      "name": "Good Vibes"
+    },
+    {
+      "archive": "LUTsHoneymoonPresetpro.zip",
+      "entry": "OPEN - Honeymoon LUT Pro/2. Presetpro - Honeymoon/Presetpro - Honeymoon.cube",
+      "status": "Added",
+      "id": "56e2273257b2aaa0f3b1",
+      "name": "Honeymoon"
+    },
+    {
+      "archive": "LUTsKodachrome64Presetpro.zip",
+      "entry": "OPEN - Kodachrome 64 LUT/2. Presetpro - Kodachrome 64 LUT/Presetpro  - Kodacrome 64.cube",
+      "status": "Added",
+      "id": "480ec350c96dbd47684f",
+      "name": "Kodachrome 64"
+    },
+    {
+      "archive": "LUTsKodachromePresetpro.zip",
+      "entry": "OPEN - Kodachrome LUT/2. Presetpro - Kodachrome LUT/Presetpro - Kodachrome.cube",
+      "status": "Added",
+      "id": "75e6b73ada7b59f56bee",
+      "name": "Kodachrome"
+    },
+    {
+      "archive": "LUTsKyotoPresetpro.zip",
+      "entry": "OPEN - Kyoto LUT/2. Presetpro - Kyoto LUT/Presetpro - Kyoto.cube",
+      "status": "Added",
+      "id": "589c02a552df70e812bd",
+      "name": "Kyoto"
+    },
+    {
+      "archive": "LUTsLomographyPresetpro.zip",
+      "entry": "OPEN - Lomography LUT/2. Presetpro - Lomography LUT/Presetpro - Lomography.cube",
+      "status": "Duplicate skipped",
+      "id": "9c20de79ce675309eb0e",
+      "name": "Lomography"
+    },
+    {
+      "archive": "LUTsMalibuPresetpro.zip",
+      "entry": "OPEN - Malibu LUT Pro/2. Presetpro - Malibu/Presetpro - Malibu.cube",
+      "status": "Added",
+      "id": "c17f9524dbd17e4984b7",
+      "name": "Malibu"
+    },
+    {
+      "archive": "LUTsMangoPresetpro.zip",
+      "entry": "OPEN - Mango LUT/2. Presetpro - Mango LUT/Presetpro - Mango.cube",
+      "status": "Added",
+      "id": "4a5e5575817f7c64ce0d",
+      "name": "Mango"
+    },
+    {
+      "archive": "LUTsMoodyAquaPresetpro.zip",
+      "entry": "OPEN - Moody Aqua LUT Pro/2. Presetpro - Moody Aqua LUT/Presetpro - Moody Aqua.cube",
+      "status": "Added",
+      "id": "ddb5bcd912da295a88ce",
+      "name": "Moody Aqua"
+    },
+    {
+      "archive": "LUTsMoodyBluePresetpro.zip",
+      "entry": "OPEN - Moody Blue LUT/2. Presetpro - Moody Blue LUT/Presetpro - Moody Blue.cube",
+      "status": "Added",
+      "id": "861a353081c8aa84e7eb",
+      "name": "Moody Blue"
+    },
+    {
+      "archive": "LUTsMoodyFilmPresetpro.zip",
+      "entry": "OPEN - Moody Film LUT/2. Presetpro - Moody Film LUT/Presetpro - Moody Film.cube",
+      "status": "Added",
+      "id": "07a31b45aca1a31c668c",
+      "name": "Moody Film"
+    },
+    {
+      "archive": "LUTsMoodyGradePresetpro.zip",
+      "entry": "OPEN - Moody Grade LUT/2. Presetpro - Moody Grade LUT/Presetpro - Moody Grade.cube",
+      "status": "Added",
+      "id": "26ea4d07032368ac14c4",
+      "name": "Moody Grade"
+    },
+    {
+      "archive": "LUTsMoodyStock.zip",
+      "entry": "OPEN - Moody Stock LUT/2. Presetpro - Moody Stock LUT/Presetpro - Moody Stock.cube",
+      "status": "Duplicate skipped",
+      "id": "9391c05fd91cca4aeeb6",
+      "name": "Moody Stock"
+    },
+    {
+      "archive": "LUTsMoodyStockPresetpro.zip",
+      "entry": "OPEN - Moody Stock LUT/2. Presetpro - Moody Stock LUT/Presetpro - Moody Stock.cube",
+      "status": "Added",
+      "id": "ba0bf49a0775ca5315dd",
+      "name": "Moody Stock (2)"
+    },
+    {
+      "archive": "LUTsMotorHead.zip",
+      "entry": "OPEN - Motor Head LUT Pro/2. Presetpro - Motor Head/Presetpro - Motor Head.cube",
+      "status": "Duplicate skipped",
+      "id": "c17f9524dbd17e4984b7",
+      "name": "Malibu"
+    },
+    {
+      "archive": "LUTsMovieGradePresetpro.com.zip",
+      "entry": "OPEN - Movie Grade LUT Pro/2. Presetpro - Movie Grade LUT/Presetpro - Movie Grade.cube",
+      "status": "Added",
+      "id": "846b17be8127ba9bb994",
+      "name": "Movie Grade"
+    },
+    {
+      "archive": "LUTsNomadPresetpro.zip",
+      "entry": "OPEN - Nomad LUT/2. Presetpro - Nomad LUT/Presetpro - Nomad.cube",
+      "status": "Added",
+      "id": "22500fc0c296840a0e73",
+      "name": "Nomad"
+    },
+    {
+      "archive": "LUTsPalmSprings.zip",
+      "entry": "OPEN - Palm Springs LUT/2. Presetpro - Palm Springs LUT/Presetpro - Palm Springs.cube",
+      "status": "Duplicate skipped",
+      "id": "aa9e63a144a4058dc1ca",
+      "name": "Color Negative"
+    },
+    {
+      "archive": "LUTsPastelMorningPresetpro.zip",
+      "entry": "OPEN - Pastel Morning LUT/2. Presetpro - Pastel Morning LUT/Presetpro - Pastel Morning.cube",
+      "status": "Added",
+      "id": "df32bf1e080ece268964",
+      "name": "Pastel Morning"
+    },
+    {
+      "archive": "LUTsPolaroidColorPresetpro.zip",
+      "entry": "OPEN - Polaroid Color LUT/2. Presetpro - Polaroid Color LUT/Presetpro - Polaroid Color.cube",
+      "status": "Added",
+      "id": "9ed96ddf6266fcaa5aef",
+      "name": "Polaroid Color"
+    },
+    {
+      "archive": "LUTsPortra400Presetpro.zip",
+      "entry": "OPEN - Portra 400/2. Presetpro - Porta 400/Presetpro  - Portra 400.cube",
+      "status": "Duplicate skipped",
+      "id": "e79931ea02b6b83b9b60",
+      "name": "Portra"
+    },
+    {
+      "archive": "LUTsPortra800.zip",
+      "entry": "OPEN - Portra 800 LUT/2. Presetpro - Portra 800 LUT/Presetpro - Portra 800.cube",
+      "status": "Added",
+      "id": "3243ace857ff66681117",
+      "name": "Portra 800"
+    },
+    {
+      "archive": "LUTsPortraPresetpro.zip",
+      "entry": "OPEN - Portra/2. Presetpro - Porta/Presetpro - Portra.cube",
+      "status": "Duplicate skipped",
+      "id": "e79931ea02b6b83b9b60",
+      "name": "Portra"
+    },
+    {
+      "archive": "LUTsPortrait160Presetpro.zip",
+      "entry": "OPEN - Portra 400/2. Presetpro - Portait 160/Presetpro - Portrait 160.cube",
+      "status": "Added",
+      "id": "a138736e4a57cd1bcdf7",
+      "name": "Portrait 160"
+    },
+    {
+      "archive": "LUTsRetroRideStockpresets.zip",
+      "entry": "OPEN - Retro Ride LUT SP/2. Stockpresets - Retro Ride LUT/Stockpresets - Retro Ride.cube",
+      "status": "Duplicate skipped",
+      "id": "bc79682a2caa46d5c1b6",
+      "name": "Birds Eye"
+    },
+    {
+      "archive": "LUTsReversalFilmPresetpro.zip",
+      "entry": "OPEN - Reversal Film LUT/2. Presetpro - Reversal LUT/Presetpro - Reversal.cube",
+      "status": "Added",
+      "id": "f3599b1e54036e24d101",
+      "name": "Reversal"
+    },
+    {
+      "archive": "LUTsRichTonesPresetpro.zip",
+      "entry": "OPEN - Rich Tones LUT/2. Presetpro - Rich Tones LUT/Presetpro - Rich Tones.cube",
+      "status": "Duplicate skipped",
+      "id": "c7546a07e7661bf85198",
+      "name": "Fashion"
+    },
+    {
+      "archive": "LUTsSandstormStockpresets.zip",
+      "entry": "OPEN - Sandstorm LUT SP/2. Stockpresets - Sandstorm LUT/Stockpresets - Sandstorm.cube",
+      "status": "Duplicate skipped",
+      "id": "ba62f0e46a154a55b410",
+      "name": "Beachwood"
+    },
+    {
+      "archive": "LUTsSantoriniPresetpro.zip",
+      "entry": "OPEN - Sanotrini LUT/2. Presetpro - Creative LUT/Presetpro - Santorini.cube",
+      "status": "Duplicate skipped",
+      "id": "50daf83b33bdb796eaf4",
+      "name": "Bright ++"
+    },
+    {
+      "archive": "LUTsSeaBreezePresetpro.zip",
+      "entry": "OPEN - Sea Breeze LUT/2. Presetpro - Sea Breeze LUT/Presetpro - Sea Breeze.cube",
+      "status": "Added",
+      "id": "ae36c209a66a55d313cc",
+      "name": "Sea Breeze"
+    },
+    {
+      "archive": "LUTsSimplifyPresetpro.zip",
+      "entry": "OPEN - Simplify Pro/2. Presetpro - Simplify/Presetpro - Simplify.cube",
+      "status": "Duplicate skipped",
+      "id": "c17f9524dbd17e4984b7",
+      "name": "Malibu"
+    },
+    {
+      "archive": "LUTsStreetCarPresetpro.zip",
+      "entry": "OPEN - Street Car LUT/2. Presetpro - Street Car LUT/Presetpro - Street Car.cube",
+      "status": "Added",
+      "id": "9bedc3ff0b46c1f93219",
+      "name": "Street Car"
+    },
+    {
+      "archive": "LUTsStylishPresetpro.zip",
+      "entry": "OPEN - Stylish LUT/2. Presetpro - Stylish LUT/Presetpro - Stylish.cube",
+      "status": "Added",
+      "id": "177affb5d282d713fed7",
+      "name": "Stylish"
+    },
+    {
+      "archive": "LUTsSunsetPresetpro.zip",
+      "entry": "OPEN - Sunset LUT/2. Presetpro - Sunset LUT/Presetpro - Sunset.cube",
+      "status": "Duplicate skipped",
+      "id": "c3f17d5c108d48a74c5c",
+      "name": "AGF 11 - Vista"
+    },
+    {
+      "archive": "LUTsTopGunPresetpro.zip",
+      "entry": "OPEN - TOP Gun LUT/2. Presetpro - Top Gun LUT/Presetpro - Top Gun.cube",
+      "status": "Added",
+      "id": "e752ba42d0d0e18ccbbf",
+      "name": "Top Gun"
+    },
+    {
+      "archive": "LUTsTowerBridgePresetpro.zip",
+      "entry": "OPEN - Tower Bridge LUT Pro/2. Presetpro - Tower Bridge LUT/Presetpro - Tower Bridge.cube",
+      "status": "Added",
+      "id": "ccb9962dca7d017410b6",
+      "name": "Faded"
+    },
+    {
+      "archive": "LUTsTravelFilmPresetpro.zip",
+      "entry": "OPEN - Travel Film LUT/2. Presetpro - Travel Film LUT/Presetpro - Travel Film.cube",
+      "status": "Added",
+      "id": "45b8f9140ae919b25346",
+      "name": "Travel Film"
+    },
+    {
+      "archive": "LUTsTumbleweedPresetpro.zip",
+      "entry": "OPEN - Tubleweed LUT/2. Presetpro - Tumbleweed LUT/Presetpro - Tumbleweed.cube",
+      "status": "Added",
+      "id": "e6eb500df5beb00d5582",
+      "name": "Tumbleweed"
+    },
+    {
+      "archive": "LUTsTwilightPresetpro.zip",
+      "entry": "OPEN - Twilight LUT/2. Presetpro - Twilight LUT/Presetpro - Twilight.cube",
+      "status": "Added",
+      "id": "19d60beb5f533279e246",
+      "name": "Twilight"
+    },
+    {
+      "archive": "LUTsValleyMistPresetpro.com.zip",
+      "entry": "OPEN - Valley Mist LUT Pro/2. Presetpro - Valley Mist LUT/Presetpro - Valley Mist.cube",
+      "status": "Duplicate skipped",
+      "id": "e6c871f6c18c6fadd11a",
+      "name": "Valley Mist"
+    },
+    {
+      "archive": "LUTsVelvia100Presetpro.zip",
+      "entry": "OPEN - Velvia 100 LUT/2. Presetpro - Velvia 100 LUT/Presetpro - Velvia 100.cube",
+      "status": "Added",
+      "id": "33b0d673aef5bcce3418",
+      "name": "FUJ 07 - Velvia +"
+    },
+    {
+      "archive": "LUTsVibePresetpro.zip",
+      "entry": "OPEN - Vibe LUT/2. Presetpro - Vibe LUT/Presetpro - Vibe.cube",
+      "status": "Added",
+      "id": "bc50e1964857ae406dd5",
+      "name": "Vibe"
+    },
+    {
+      "archive": "LUTsVillaPresetpro.zip",
+      "entry": "OPEN - Villa LUT Pro/2. Presetpro - Villa LUT/Presetpro - Villa.cube",
+      "status": "Added",
+      "id": "7730e0d7cfed14b0bc8c",
+      "name": "Villa"
+    },
+    {
+      "archive": "LUTsVividSkyPresetpro.zip",
+      "entry": "OPEN - Vivid Sky Pro/2. Presetpro - Vivid Sky/Presetpro - Vivid Sky.cube",
+      "status": "Added",
+      "id": "2c4235e3a41ed7083ab6",
+      "name": "Vivid Sky"
+    },
+    {
+      "archive": "LUTsWarmTonesPresetpro.zip",
+      "entry": "OPEN - Warm Tones LUT/2. Presetpro - Warm Tones LUT/Presetpro - Warm Tones.cube",
+      "status": "Added",
+      "id": "e552389ccfb1637a7c35",
+      "name": "Warm Tones"
+    },
+    {
+      "archive": "LUTsWeddingPresetpro.zip",
+      "entry": "OPEN - Wedding LUT/2. Presetpro - Wedding LUT/Presetpro - Wedding.cube",
+      "status": "Duplicate skipped",
+      "id": "c7546a07e7661bf85198",
+      "name": "Fashion"
+    },
+    {
+      "archive": "LUTsWideAnglePro.zip",
+      "entry": "OPEN - Wide Angle Pro/2. Presetpro - Wide Angle LUT/Presetpro - Wide Angle.cube",
+      "status": "Added",
+      "id": "72c8acfecc18a352720e",
+      "name": "Wide Angle"
+    },
+    {
+      "archive": "LookupTableCinematicFadeLUTs.zip",
+      "entry": "OPEN - Cinematic Fade LUT/2. Presetpro - Cinematic Fade LUT/Presetpro - Cinematic Fade.cube",
+      "status": "Added",
+      "id": "ba553c58de3431bb9e44",
+      "name": "Cinematic Fade"
+    },
+    {
+      "archive": "LookupTableCinematicGradePresetpro.zip",
+      "entry": "OPEN - Cinematic Grade LUT/2. Presetpro - Cinematic Grade/Presetpro - Cinematic Grade.cube",
+      "status": "Duplicate skipped",
+      "id": "03e524662d256941f1c1",
+      "name": "Cinematic Grade"
+    },
+    {
+      "archive": "LookupTableConcreteJunglePresetpro.zip",
+      "entry": "OPEN - Concrete Jungle LUT/2. Presetpro - Concrete Jungle LUT/Presetpro - Concrete Jungle.cube",
+      "status": "Duplicate skipped",
+      "id": "eea6065351fc016b5eb7",
+      "name": "Concrete Jungle"
+    },
+    {
+      "archive": "LookupTableFilmStyleLUTPresetpro.zip",
+      "entry": "OPEN - Film Style LUT/2. Presetpro - Film Style/Presetpro - Film Style.cube",
+      "status": "Duplicate skipped",
+      "id": "6672d813412cf1529bd6",
+      "name": "Film Style"
+    },
+    {
+      "archive": "LookupTableFujiFilmLUTPresetpro.com.zip",
+      "entry": "OPEN - Fuji Film LUT/2. Presetpro - Fuji Film/Presetpro - Fuji Film.cube",
+      "status": "Added",
+      "id": "0b912ee0928b51215808",
+      "name": "Fuji Film (2)"
+    },
+    {
+      "archive": "LookupTableMovieFilmLUTPresetpro.zip",
+      "entry": "OPEN - Movie Film LUT/2. Presetpro - Movie Film LUT/Presetpro - Movie Film.CUBE",
+      "status": "Duplicate skipped",
+      "id": "e79352117dd22236bba6",
+      "name": "Movie Film"
+    },
+    {
+      "archive": "OPEN - Amber Light LUTs Pro.zip",
+      "entry": "OPEN - Amber Light LUTs/2. Presetpro - Amber Light/Presetpro - Amber Light.cube",
+      "status": "Added",
+      "id": "a1b799944f4aa2652de6",
+      "name": "Amber Light"
+    },
+    {
+      "archive": "OPEN - Architectural LUT.zip",
+      "entry": "OPEN - Architectural LUT/2. Presetpro - Architectural LUT/Presetpro - Architectural LUT.cube",
+      "status": "Duplicate skipped",
+      "id": "89cfada76aaf8f0d8586",
+      "name": "Shades LUT"
+    },
+    {
+      "archive": "OPEN - Arctic Chill LUTs Pro.zip",
+      "entry": "OPEN - Arctic Chill LUTs/Presetpro - Arcitc Chill LUT/Presetpro - Arctic Chill.cube",
+      "status": "Added",
+      "id": "c654963b1a21a5efd820",
+      "name": "Arctic Chill"
+    },
+    {
+      "archive": "OPEN - Binary Code LUTs Pro.zip",
+      "entry": "OPEN - Binary Code LUTs/2. Presetpro - Binary Code LUT/Presetpro - Binary Code.cube",
+      "status": "Added",
+      "id": "980fcd7d5973c4e764c3",
+      "name": "Binary Code"
+    },
+    {
+      "archive": "OPEN - Bliss LUT SP.zip",
+      "entry": "OPEN - Bliss LUT SP/2. Stockpresets - Bliss LUT/Stockpresets - Bliss.cube",
+      "status": "Duplicate skipped",
+      "id": "56e2273257b2aaa0f3b1",
+      "name": "Honeymoon"
+    },
+    {
+      "archive": "OPEN - Blue Mist LUTs Pro.zip",
+      "entry": "OPEN - Blue Mist LUTs/2. Presetpro - Blue Mist LUT/Presetpro - Blue Mist.cube",
+      "status": "Added",
+      "id": "bd841c6e400e29e9a7ed",
+      "name": "Blue Mist"
+    },
+    {
+      "archive": "OPEN - Brooklyn LUTs Pro.zip",
+      "entry": "OPEN - Brooklyn LUTs/2. Presetpro - Brooklyn LUT/Presetpro - Brooklyn.cube",
+      "status": "Added",
+      "id": "7f4b01805dc5b596b083",
+      "name": "Brooklyn"
+    },
+    {
+      "archive": "OPEN - Cali Vibes LUTs Pro.zip",
+      "entry": "OPEN - Cali Vibes LUTs/Presetpro - Cali Vibes LUT/Presetpro - Cali Vibes.cube",
+      "status": "Added",
+      "id": "d3e93377564b78bf63d5",
+      "name": "Cali Vibes"
+    },
+    {
+      "archive": "OPEN - Castle Cool LUTs Pro.zip",
+      "entry": "OPEN - Castle Cool LUTs/2. Presetpro - Castle Cool LUT/Presetpro - Castle Cool.cube",
+      "status": "Added",
+      "id": "78bbee168cf54e7cf91c",
+      "name": "Castle Cool"
+    },
+    {
+      "archive": "OPEN - Cine Green LUTs Pro.zip",
+      "entry": "OPEN - Cine Green LUTs/2. Presetpro - CineÌ Green LUT/Presetpro - CineÌ Green.cube",
+      "status": "Added",
+      "id": "47e942ff64bc91cf495c",
+      "name": "Ciné Green"
+    },
+    {
+      "archive": "OPEN - Cinematic LUTs Pro.zip",
+      "entry": "OPEN - Cinematic LUTs/2. Presetpro - Cinematic LUT/Presetpro - Cinematic.cube",
+      "status": "Added",
+      "id": "d68e2e7985b0ca0131b6",
+      "name": "Cinematic"
+    },
+    {
+      "archive": "OPEN - City Skyline LUTs Pro.zip",
+      "entry": "OPEN - City Skyline LUTs/2. Presetpro - City Skyline LUT/Presetpro - City Skyline.cube",
+      "status": "Added",
+      "id": "d18ef2ed53905a720b07",
+      "name": "City Skyline"
+    },
+    {
+      "archive": "OPEN - Classic Film LUT.zip",
+      "entry": "OPEN - Classic Film LUT/2. Presetpro - Classic Film LUT/Presetpro - Classic Film.cube",
+      "status": "Added",
+      "id": "9713614ee660756c67f1",
+      "name": "Classic Film"
+    },
+    {
+      "archive": "OPEN - Classic Ride LUTs.zip",
+      "entry": "OPEN - Classic Ride LUTs/2. Presetpro - Classic Ride LUT/Presetpro - Classic Ride.cube",
+      "status": "Added",
+      "id": "3154212402bc77b6aa1e",
+      "name": "Free LUT Classic Ride"
+    },
+    {
+      "archive": "OPEN - Concrete LUTs Pro.zip",
+      "entry": "OPEN - Concrete LUTs/2. Presetpro - Concrete/Presetpro - Concrete.cube",
+      "status": "Added",
+      "id": "163db0592d49104acc76",
+      "name": "Concrete"
+    },
+    {
+      "archive": "OPEN - Ektar LUT Pro.zip",
+      "entry": "OPEN - Ektar LUT Pro/2. Presetpro - Ektar LUT/Presetpro - Ektar.cube",
+      "status": "Added",
+      "id": "d00f1d720095afe51036",
+      "name": "26 - KDK - E64"
+    },
+    {
+      "archive": "OPEN - Emulation LUTs.zip",
+      "entry": "OPEN - Emulation LUTs/2. Presetpro - Emulation LUT/Presetpro - Emulation.cube",
+      "status": "Added",
+      "id": "8f3a7982df9c35255caa",
+      "name": "04 - POL - Cine + cool"
+    },
+    {
+      "archive": "OPEN - Escape LUT SP.zip",
+      "entry": "OPEN - Escape LUT SP/2. Stockpresets - Escape LUT/Stockpresets - Escape.cube",
+      "status": "Added",
+      "id": "4eddf619f0e39964b9c3",
+      "name": "Escape"
+    },
+    {
+      "archive": "OPEN - Exploration LUTs Pro.zip",
+      "entry": "OPEN - Exploration LUTs/2. Presetpro - Exploration LUT/Presetpro - Exploration.cube",
+      "status": "Added",
+      "id": "b6303dbe3d1e4a8c5707",
+      "name": "Exploration"
+    },
+    {
+      "archive": "OPEN - FUJ Astia LUT SP.zip",
+      "entry": "OPEN - FUJ Astia LUT SP/2. Stockpresets - FUJ Astia LUT/16 - FUJ - Astia.cube",
+      "status": "Duplicate skipped",
+      "id": "796155a6f2b61002a936",
+      "name": "Filmic"
+    },
+    {
+      "archive": "OPEN - FUJ Film LUTs.zip",
+      "entry": "OPEN - FUJ Film LUTs/2. Presetpro - FUJ Film LUT/Presetpro - FUJ Film.cube",
+      "status": "Added",
+      "id": "78b815264042dc1fb8b2",
+      "name": "FUJ Film"
+    },
+    {
+      "archive": "OPEN - Fashion LUT SP.zip",
+      "entry": "OPEN - Fashion LUT SP/2. Stockpresets - Fashion LUT/Stockpresets - Fashion.cube",
+      "status": "Added",
+      "id": "dbe9027b98b09d8bbd66",
+      "name": "Fashion (2)"
+    },
+    {
+      "archive": "OPEN - Film Roll LUTs Pro.zip",
+      "entry": "OPEN - Film Roll LUTs/Presetpro - Film Roll LUT/Presetpro - Film Roll.cube",
+      "status": "Added",
+      "id": "f60f89c404df0688bc4e",
+      "name": "Film Roll"
+    },
+    {
+      "archive": "OPEN - Flat Pop LUTs Pro.zip",
+      "entry": "OPEN - Flat Pop LUTs/2. Presetpro - Flat Pop LUT/Presetpro - Flat Pop.cube",
+      "status": "Added",
+      "id": "888372005f8cef606902",
+      "name": "Flat Pop"
+    },
+    {
+      "archive": "OPEN - Forest Film  LUT SP.zip",
+      "entry": "OPEN - Forest Film  LUT SP/2. Stockpresets - Forest Film/Stockpresets - Forest Film.cube",
+      "status": "Added",
+      "id": "7bf91e636f9f592df247",
+      "name": "Forest Film"
+    },
+    {
+      "archive": "OPEN - Fuji Film LUTs Pro.zip",
+      "entry": "OPEN - Fuji Film LUTs/2. Presetpro - Fuji Film LUT/Presetpro - Fuji Film.cube",
+      "status": "Duplicate skipped",
+      "id": "30de4d33093df4ee4ab6",
+      "name": "Fuji Film"
+    },
+    {
+      "archive": "OPEN - HDR Color LUTs Pro.zip",
+      "entry": "OPEN - HDR Color LUTs/2. Presetpro - HDR Color LUT/Presetpro - HDR Color.cube",
+      "status": "Added",
+      "id": "e980473c61ba68295e1f",
+      "name": "HDR Color"
+    },
+    {
+      "archive": "OPEN - Hollywood-LUTs Pro.zip",
+      "entry": "OPEN - Hollywood-LUTs/2. Presetpro - Hollywood LUT/Presetpro - Hollywood.cube",
+      "status": "Added",
+      "id": "05308b9a7451fa17d611",
+      "name": "Hollywood"
+    },
+    {
+      "archive": "OPEN - Instant Film LUT SP.zip",
+      "entry": "OPEN - Instant Film LUT SP/2. Stockpresets - Instant Film LUT/Stockpresets - Instant Film.cube",
+      "status": "Added",
+      "id": "878d1303f4cca713393a",
+      "name": "Instant Film"
+    },
+    {
+      "archive": "OPEN - KDK Portra LUT SP.zip",
+      "entry": "OPEN - KDK Portra LUT SP/2. Stockpresets - KDK Portra LUT/05 - KDK - Portra + warm.cube",
+      "status": "Added",
+      "id": "26f6fe486f0093c7af1f",
+      "name": "05 - KDK - Portra + warm"
+    },
+    {
+      "archive": "OPEN - Kodak Color LUTs Pro.zip",
+      "entry": "OPEN - Kodak Color LUTs/2. Presetpro - Kodak Color Pro/Presetpro - Kodak Color.cube",
+      "status": "Duplicate skipped",
+      "id": "20e4da37b22c091b54f6",
+      "name": "Kodak Color"
+    },
+    {
+      "archive": "OPEN - Lagoon LUT SP.zip",
+      "entry": "OPEN - Lagoon LUT SP/2. Stockpresets - Lagoon LUT/Stockpresets - Lagoon.cube",
+      "status": "Added",
+      "id": "877fb12ae2331229f96c",
+      "name": "Lagoon"
+    },
+    {
+      "archive": "OPEN - Landscape LUTs Pro.zip",
+      "entry": "OPEN - Landscape LUTs/2. Presetpro - Landscape LUT/Presetpro - Landscape.cube",
+      "status": "Duplicate skipped",
+      "id": "3c9563258979bb8cb5da",
+      "name": "Landscape"
+    },
+    {
+      "archive": "OPEN - Luminous LUTs.zip",
+      "entry": "OPEN - Luminous LUTs/2. Presetpro - Luminous LUT/Presetpro - Luminous.cube",
+      "status": "Added",
+      "id": "d7e2a7abe3f924f25ea2",
+      "name": "Luminous"
+    },
+    {
+      "archive": "OPEN - Lush Land LUTs Pro.zip",
+      "entry": "OPEN - Lush Land LUTs/2. Presetpro - Lush Land LUT/Presetpro - Lush Land.cube",
+      "status": "Added",
+      "id": "dbb19fcf6bfb4c01a9df",
+      "name": "Lush Land"
+    },
+    {
+      "archive": "OPEN - Midnight LUTs Pro.zip",
+      "entry": "OPEN - Midnight LUTs/2. Presetpro - Midnight LUT/Presetpro - Midnight.cube",
+      "status": "Added",
+      "id": "0a36fb31965747328501",
+      "name": "Midnight"
+    },
+    {
+      "archive": "OPEN - Mood LUT.zip",
+      "entry": "OPEN - Mood LUT/2. Presetpro - Mood LUT/Presetpro - Mood.cube",
+      "status": "Added",
+      "id": "aef3eb389aaf0beba937",
+      "name": "Mood"
+    },
+    {
+      "archive": "OPEN - Moody Lake LUT Pro.zip",
+      "entry": "OPEN - Moody Lake LUT Pro/2. Presetpro - Moody Lake LUT/Presetpro - Moody Lake.cube",
+      "status": "Duplicate skipped",
+      "id": "ccb9962dca7d017410b6",
+      "name": "Faded"
+    },
+    {
+      "archive": "OPEN - Neopan LUT Pro.zip",
+      "entry": "OPEN - Neopan LUT Pro/2. Presetpro - Neopan LUT/Presetpro - Neopan.cube",
+      "status": "Added",
+      "id": "dd72a3659daca2c33ffb",
+      "name": "Neopan Film"
+    },
+    {
+      "archive": "OPEN - Night Colors LUTs Pro.zip",
+      "entry": "OPEN - Night Colors LUTs/2. Presetpro - Night Colors LUT/Presetpro - Night Colors.cube",
+      "status": "Added",
+      "id": "b4c1a620aa3430d3f5e6",
+      "name": "Night Colors"
+    },
+    {
+      "archive": "OPEN - Passport LUTs Pro.zip",
+      "entry": "OPEN - Passport LUTs/2. Presetpro - Passport LUT/Presetpro - Passport.cube",
+      "status": "Added",
+      "id": "f32722fc0b28fe404e05",
+      "name": "Passport"
+    },
+    {
+      "archive": "OPEN - Portra 160 LUT Pro.zip",
+      "entry": "OPEN - Portra 160 LUT Pro/2. Presetpro - Portra 160 LUT/Presetpro - Portra 160.cube",
+      "status": "Duplicate skipped",
+      "id": "c17f9524dbd17e4984b7",
+      "name": "Malibu"
+    },
+    {
+      "archive": "OPEN - Portrait LUT SP.zip",
+      "entry": "OPEN - Portrait LUT SP/2. Stockpresets - Portrait LUT/Stockpresets - Portrait.cube",
+      "status": "Added",
+      "id": "f1a81525d6ae57cbb43c",
+      "name": "Portrait"
+    },
+    {
+      "archive": "OPEN - Portrait LUTs Pro.zip",
+      "entry": "OPEN - Portrait LUTs/2. Presetpro - Portrait LUT/Presetpro - Portrait Film.cube",
+      "status": "Duplicate skipped",
+      "id": "acbaaeb2489b60a04bff",
+      "name": "Portrait Film"
+    },
+    {
+      "archive": "OPEN - Rainy Road LUTs Pro.zip",
+      "entry": "OPEN - Rainy Road LUTs/2. Presetpro - Rainy Road LUT/Presetpro - Rainy Road.cube",
+      "status": "Added",
+      "id": "65635ec4983ad02fd50b",
+      "name": "Rainy Road"
+    },
+    {
+      "archive": "OPEN - Renegade LUTs Pro.zip",
+      "entry": "OPEN - Renegade LUTs/2. Presetpro - Renegade LUT/Presetpro - Renegade.cube",
+      "status": "Added",
+      "id": "6856221db86b12881dcf",
+      "name": "Renegade"
+    },
+    {
+      "archive": "OPEN - Retro Color LUT.zip",
+      "entry": "OPEN - Retro Color LUT/2. Presetpro - Retro Color LUT/Presetpro - Retro Color.cube",
+      "status": "Duplicate skipped",
+      "id": "8f3a7982df9c35255caa",
+      "name": "04 - POL - Cine + cool"
+    },
+    {
+      "archive": "OPEN - Reversal LUT Pro.zip",
+      "entry": "OPEN - Reversal LUT Pro/2. Presetpro - Reversal LUT/Presetpro - Reversal.cube",
+      "status": "Added",
+      "id": "fbca01ea8a8338568008",
+      "name": "Reversal (2)"
+    },
+    {
+      "archive": "OPEN - Rich Color LUTs Pro.zip",
+      "entry": "OPEN - Rich Color LUTs/2. Presetpro - Rich Color LUT/Presetpro - Rich Color.cube",
+      "status": "Added",
+      "id": "2192785fe9115fbe9f62",
+      "name": "Rich Color"
+    },
+    {
+      "archive": "OPEN - Roadrunner LUT SP.zip",
+      "entry": "OPEN - Roadrunner LUT SP/2. Stockpresets - Roadrunner LUT/Stockpresets - Roadrunner.cube",
+      "status": "Added",
+      "id": "282aa85d68de80cd1946",
+      "name": "Roadrunner"
+    },
+    {
+      "archive": "OPEN - Shades LUT.zip",
+      "entry": "OPEN - Shades LUT/2. Presetpro - Shades LUT/Presetpro - Shades LUT.cube",
+      "status": "Duplicate skipped",
+      "id": "89cfada76aaf8f0d8586",
+      "name": "Shades LUT"
+    },
+    {
+      "archive": "OPEN - Shorey  LUT SP.zip",
+      "entry": "OPEN - Shorey  LUT SP/2. Stockpresets - Shorey/Stockpresets - Shorey.cube",
+      "status": "Duplicate skipped",
+      "id": "e066fc69a8d50b3a94a6",
+      "name": "Agfa Optima"
+    },
+    {
+      "archive": "OPEN - Skatepark LUT.zip",
+      "entry": "OPEN - Skatepark LUT/2. Presetpro - Skatepark LUT/Presetpro - Skatepark.cube",
+      "status": "Duplicate skipped",
+      "id": "89cfada76aaf8f0d8586",
+      "name": "Shades LUT"
+    },
+    {
+      "archive": "OPEN - Snow Blind LUTs Pro.zip",
+      "entry": "OPEN - Snow Blind LUTs/2. Presetpro - Snow Blind/Presetpro - Snow Blind.cube",
+      "status": "Added",
+      "id": "3c64de1b9a81c7e9443a",
+      "name": "Snow Blind"
+    },
+    {
+      "archive": "OPEN - Social LUT.zip",
+      "entry": "OPEN - Social LUT/2. Presetpro - Social LUT/Presetpro - Social.cube",
+      "status": "Duplicate skipped",
+      "id": "9713614ee660756c67f1",
+      "name": "Classic Film"
+    },
+    {
+      "archive": "OPEN - Soft Fade LUTs Pro.zip",
+      "entry": "OPEN - Soft Fade LUTs/2. Presetpro - Soft Fade LUT/Presetpro - Soft Fade.cube",
+      "status": "Added",
+      "id": "2d8c7106f454e08171ab",
+      "name": "Soft Fade"
+    },
+    {
+      "archive": "OPEN - Soft LUTs.zip",
+      "entry": "OPEN - Soft Fade LUTs/2. Presetpro - Soft Fade LUT/Presetpro - Soft Fade.cube",
+      "status": "Duplicate skipped",
+      "id": "282aa85d68de80cd1946",
+      "name": "Roadrunner"
+    },
+    {
+      "archive": "OPEN - Street Crush LUTs Pro.zip",
+      "entry": "OPEN - Street Crush LUTs/2. Presetpro - Street Crush LUT/Presetpro - Street Crush.cube",
+      "status": "Added",
+      "id": "b937d4189d937eb88b41",
+      "name": "Street Crush"
+    },
+    {
+      "archive": "OPEN - Summer Film  LUT SP.zip",
+      "entry": "OPEN - Summer Film  LUT SP/2. Stockpresets - Summer Film/Stockpresets - Summer Film.cube",
+      "status": "Added",
+      "id": "6e5b67c757a02445c529",
+      "name": "Summer Film"
+    },
+    {
+      "archive": "OPEN - Summit LUTs Pro.zip",
+      "entry": "OPEN - Summit LUTs/2. Presetpro - Summit LUT/Presetpro - Summit.cube",
+      "status": "Added",
+      "id": "9cf9a03cc82ea9b3688e",
+      "name": "Summit"
+    },
+    {
+      "archive": "OPEN - Vibrant Light LUTs Pro.zip",
+      "entry": "OPEN - Vibrant Light LUTs/2. Presetpro - Vibrant Light LUT/Presetpro - Vibrant Light.cube",
+      "status": "Added",
+      "id": "affeb4a2cf8893a6bef4",
+      "name": "Vibrant Light"
+    },
+    {
+      "archive": "OPEN - Vintage Fox LUTs.zip",
+      "entry": "OPEN - Vintage Fox LUTs/2. Presetpro - Vintage Fox LUT/Presetpro - Vintage Fox.cube",
+      "status": "Duplicate skipped",
+      "id": "aa9e63a144a4058dc1ca",
+      "name": "Color Negative"
+    },
+    {
+      "archive": "OPEN - Vintage LUTs Pro.zip",
+      "entry": "OPEN - Vintage LUTs/2. Presetpro - Vintage LUT/Presetpro - Vintage.cube",
+      "status": "Added",
+      "id": "9a197d69d1e51a04246c",
+      "name": "Vintage"
+    },
+    {
+      "archive": "OPEN - Vintage Vibe LUTs.zip",
+      "entry": "OPEN - Vintage Vibe LUTs/2. Presetpro - Vintage Vibe LUT/Presetpro - Vintage Vibe LUT.cube",
+      "status": "Duplicate skipped",
+      "id": "56e2273257b2aaa0f3b1",
+      "name": "Honeymoon"
+    },
+    {
+      "archive": "OPEN - Warm Haze LUTs Pro.zip",
+      "entry": "OPEN - Warm Haze LUTs/Presetpro - Warm Haze LUT/Presetpro - Warm Haze.cube",
+      "status": "Added",
+      "id": "6636b8d7913dc4dbe65c",
+      "name": "Warm Haze"
+    },
+    {
+      "archive": "OPEN - Warm Sky LUTs Pro.zip",
+      "entry": "OPEN - Warm Sky LUTs/2. Presetpro - Warm Sky LUT/Presetpro - Warm Sky.cube",
+      "status": "Added",
+      "id": "cc9c85845e0a7cc2f32b",
+      "name": "Warm Sky"
+    },
+    {
+      "archive": "OPEN - Warm Teal LUTs Pro.zip",
+      "entry": "OPEN - Warm Teal LUTs/2. Presetpro - Warm Teal LUT/Presetpro - Warm Teal.cube",
+      "status": "Added",
+      "id": "1473b002c5af9bee228b",
+      "name": "Warm Teal"
+    },
+    {
+      "archive": "SceneryLUT.zip",
+      "entry": "OPEN - Scenery LUT/2. Presetpro - Scenery LUT/Presetpro - Scenery.cube",
+      "status": "Duplicate skipped",
+      "id": "c550846ddce67da81685",
+      "name": "Scenery"
+    },
+    {
+      "archive": "admin-ajax.php",
+      "entry": "OPEN - Gold 200 LUT/2. Presetpro - Gold 200 LUT/Presetpro  - Gold 200.cube",
+      "status": "Added",
+      "id": "55bf7d507fcdbe265ced",
+      "name": "Gold 200"
+    },
+    {
+      "archive": "OPEN - Dusk LUTs.zip",
+      "entry": "OPEN - Dusk LUTs/2. Presetpro - Dusk LUT/Presetpro - Dusk LUT",
+      "status": "Duplicate skipped",
+      "id": "e6c871f6c18c6fadd11a",
+      "name": "Valley Mist"
+    }
+  ]
+}
