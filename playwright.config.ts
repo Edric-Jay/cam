@@ -1,0 +1,2 @@
+import {defineConfig} from '@playwright/test';
+export default defineConfig({testDir:'tests/browser',timeout:45000,workers:1,use:{baseURL:'http://localhost:3000',channel:'msedge',headless:true,viewport:{width:390,height:844},permissions:['camera'],launchOptions:{args:['--use-fake-device-for-media-stream','--use-fake-ui-for-media-stream','--use-angle=swiftshader','--enable-unsafe-swiftshader']},screenshot:'only-on-failure'},reporter:[['list'],['json',{outputFile:'test-results/browser-report.json'}]]});

@@ -1,0 +1,36 @@
+{
+  "name": "camlut",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build --webpack && node scripts/offline.mjs",
+    "start": "node scripts/serve.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "tsx --test tests/*.test.ts",
+    "import:luts": "tsx scripts/import-luts.ts",
+    "icons": "node scripts/icons.mjs",
+    "test:browser": "playwright test"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "lucide-react": "1.73.0",
+    "fflate": "^0.8.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.20.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.4.6",
+    "sharp": "^0.35.5",
+    "@playwright/test": "1.65.1",
+    "esbuild": "0.28.2"
+  }
+}

@@ -1,0 +1,1524 @@
+[
+  {
+    "id": "03e524662d256941f1c1",
+    "name": "Cinematic Grade.jpg",
+    "url": "/luts/03e524662d256941f1c1.cube",
+    "bytes": 884996,
+    "hash": "03e524662d256941f1c14df1ab9ca1fbe31738ba9ecac64d55e414da6a323ff7",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LookupTableCinematicGradePresetpro.zip!OPEN - Cinematic Grade LUT/2. Presetpro - Cinematic Grade/Presetpro - Cinematic Grade.cube",
+      "OPEN - Cinematic Grade LUT\\2. Presetpro - Cinematic Grade\\Presetpro - Cinematic Grade.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "8431bf90ceb972b82b6a",
+    "name": "Cinematic Portrait",
+    "url": "/luts/8431bf90ceb972b82b6a.cube",
+    "bytes": 884995,
+    "hash": "8431bf90ceb972b82b6a28aa25996647d0babd8fddd70728b98e43c0f26af1e6",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTCinematicPortraitPresetpro.zip!OPEN - Cinematic Portrait LUT/2. Presetpro - Cinematic Portrait LUT/Presetpro - Cinematic Portrait.cube",
+      "OPEN - Cinematic Portrait LUT\\2. Presetpro - Cinematic Portrait LUT\\Presetpro - Cinematic Portrait.cube",
+      "Presetpro - Cinematic Portrait.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "eea6065351fc016b5eb7",
+    "name": "Concrete Jungle.jpg",
+    "url": "/luts/eea6065351fc016b5eb7.cube",
+    "bytes": 884996,
+    "hash": "eea6065351fc016b5eb7f44110627afce717cc14c8361dfeb07f3dcfd69f8e21",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LookupTableConcreteJunglePresetpro.zip!OPEN - Concrete Jungle LUT/2. Presetpro - Concrete Jungle LUT/Presetpro - Concrete Jungle.cube",
+      "OPEN - Concrete Jungle LUT\\2. Presetpro - Concrete Jungle LUT\\Presetpro - Concrete Jungle.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "22f88c9b0decebe47a08",
+    "name": "Daybreak",
+    "url": "/luts/22f88c9b0decebe47a08.cube",
+    "bytes": 7078015,
+    "hash": "22f88c9b0decebe47a0801de8507853f6f6ade1d5a531a1e6a15d37722b6e223",
+    "gridSize": 64,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTsDaybreakPresetpro.zip!OPEN - Daybreak LUT/2. Presetpro - Daybreak LUT/Presetpro - Daybreak.cube",
+      "OPEN - Daybreak LUT\\2. Presetpro - Daybreak LUT\\Presetpro - Daybreak.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "6672d813412cf1529bd6",
+    "name": "Film Style.jpg",
+    "url": "/luts/6672d813412cf1529bd6.cube",
+    "bytes": 884991,
+    "hash": "6672d813412cf1529bd66071c70dc4d93d95c110b146762f303f645c0a8b0523",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LookupTableFilmStyleLUTPresetpro.zip!OPEN - Film Style LUT/2. Presetpro - Film Style/Presetpro - Film Style.cube",
+      "OPEN - Film Style LUT\\2. Presetpro - Film Style\\Presetpro - Film Style.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "84a4b62c105b2c699928",
+    "name": "FLog_to_ETERNA_33grid_V.1.00",
+    "url": "/luts/84a4b62c105b2c699928.cube",
+    "bytes": 970449,
+    "hash": "84a4b62c105b2c6999281d35bb7b23a91198c715d783a82230b16e3fb9b9498c",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log\\FLog_to_ETERNA_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "7e15325fe31c0564e280",
+    "name": "FLog_to_ETERNA_65grid_V.1.00",
+    "url": "/luts/7e15325fe31c0564e280.cube",
+    "bytes": 7415025,
+    "hash": "7e15325fe31c0564e280a0913b82098aab6533650c68c61679a4309511299d27",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log\\FLog_to_ETERNA_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "1309a7d4bf10f2d7aa38",
+    "name": "FLog_to_ETERNA-BB_33grid_V.1.00",
+    "url": "/luts/1309a7d4bf10f2d7aa38.cube",
+    "bytes": 970466,
+    "hash": "1309a7d4bf10f2d7aa381523890ae8a695fec1a8ea3f9643c76a5c4e38b993f7",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log\\FLog_to_ETERNA-BB_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "6dced49d1f3b30023f05",
+    "name": "FLog_to_ETERNA-BB_65grid_V.1.00",
+    "url": "/luts/6dced49d1f3b30023f05.cube",
+    "bytes": 7415042,
+    "hash": "6dced49d1f3b30023f05932f27dd133a06bb60ca8833573c0228400ab786a9db",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log\\FLog_to_ETERNA-BB_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "4228a450900f6501f53e",
+    "name": "FLog_to_FLog-709_33grid_V.1.00",
+    "url": "/luts/4228a450900f6501f53e.cube",
+    "bytes": 970429,
+    "hash": "4228a450900f6501f53e9171c9276e480a5fc08306b32b5dcd011628fbce8135",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log\\FLog_to_FLog-709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "1d0814fd62a8efe5f442",
+    "name": "FLog_to_FLog-709_65grid_V.1.00",
+    "url": "/luts/1d0814fd62a8efe5f442.cube",
+    "bytes": 7415005,
+    "hash": "1d0814fd62a8efe5f4426bc59b7aa65bc3d18f4b2c47c40404f07137a09dbb7c",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log\\FLog_to_FLog-709_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "a7bb7b5b32c36537e50c",
+    "name": "FLog_to_WDR-709_33grid_V.1.00",
+    "url": "/luts/a7bb7b5b32c36537e50c.cube",
+    "bytes": 970443,
+    "hash": "a7bb7b5b32c36537e50cf757a4d3395f8b3ea7c8c4d836c0b50f1471157241cc",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log\\FLog_to_WDR-709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "a0e1a665223ca01c4017",
+    "name": "FLog_to_WDR-709_65grid_V.1.00",
+    "url": "/luts/a0e1a665223ca01c4017.cube",
+    "bytes": 7415019,
+    "hash": "a0e1a665223ca01c4017675cac08f37a6d78adeb1d3efe4d2c12bdfb7a576105",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log\\FLog_to_WDR-709_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "14b0c3644c1f81391aa7",
+    "name": "FLog2_to_ACROS_33grid_V.1.00",
+    "url": "/luts/14b0c3644c1f81391aa7.cube",
+    "bytes": 970449,
+    "hash": "14b0c3644c1f81391aa79ca5bd8c33a4b50844f525295574ce2af9237d021930",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_ACROS_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "1e7b6c1b05924c5bdb9f",
+    "name": "FLog2_to_ACROS_65grid_V.1.00",
+    "url": "/luts/1e7b6c1b05924c5bdb9f.cube",
+    "bytes": 7415025,
+    "hash": "1e7b6c1b05924c5bdb9f2e922e962dcb608f2df15f38e628a9aac3a646293da4",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_ACROS_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "c019934ee9e3fe9abadd",
+    "name": "FLog2_to_ASTIA_33grid_V.1.00",
+    "url": "/luts/c019934ee9e3fe9abadd.cube",
+    "bytes": 970449,
+    "hash": "c019934ee9e3fe9abadd6dfdc03d1013bbd6ba4277f6bd505d340d2730b1b83d",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_ASTIA_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "164871904f39c581e5ad",
+    "name": "FLog2_to_ASTIA_65grid_V.1.00",
+    "url": "/luts/164871904f39c581e5ad.cube",
+    "bytes": 7415025,
+    "hash": "164871904f39c581e5ad51bd69f254cd268b7e3d77bad6a17a54c7b22f5bcc27",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_ASTIA_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "b68c8f4b38da95838893",
+    "name": "FLog2_to_CLASSIC-CHROME_33grid_V.1.00",
+    "url": "/luts/b68c8f4b38da95838893.cube",
+    "bytes": 970467,
+    "hash": "b68c8f4b38da958388931c34ce9eb5c09a495e8c37e654537d534dfd8f023b75",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_CLASSIC-CHROME_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "43f7fc5f262eaa2525c0",
+    "name": "FLog2_to_CLASSIC-CHROME_65grid_V.1.00",
+    "url": "/luts/43f7fc5f262eaa2525c0.cube",
+    "bytes": 7415043,
+    "hash": "43f7fc5f262eaa2525c0de805ad7fa50f5b77d85873840ae48ab2a07a6b36ff9",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_CLASSIC-CHROME_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "f3db5fe777c3a64e998b",
+    "name": "FLog2_to_CLASSIC-Neg._33grid_V.1.00",
+    "url": "/luts/f3db5fe777c3a64e998b.cube",
+    "bytes": 970463,
+    "hash": "f3db5fe777c3a64e998b8ada64ff8cc2e61f9b44538fd7c550733d1c55c197c5",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_CLASSIC-Neg._33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "f890a58d2ae278703aa0",
+    "name": "FLog2_to_CLASSIC-Neg._65grid_V.1.00",
+    "url": "/luts/f890a58d2ae278703aa0.cube",
+    "bytes": 7415039,
+    "hash": "f890a58d2ae278703aa09e73d6037a32cb925a6d90414292da7675e12b7dd3c9",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_CLASSIC-Neg._65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "4fe74f18d88b81124b68",
+    "name": "FLog2_to_ETERNA_33grid_V.1.00",
+    "url": "/luts/4fe74f18d88b81124b68.cube",
+    "bytes": 970451,
+    "hash": "4fe74f18d88b81124b688a218d9be4ac23c41d467430ec31cfe5d70aa2de5bb8",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_ETERNA_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "5c0a909c021e114adc1d",
+    "name": "FLog2_to_ETERNA_65grid_V.1.00",
+    "url": "/luts/5c0a909c021e114adc1d.cube",
+    "bytes": 7415027,
+    "hash": "5c0a909c021e114adc1d1c9c8d085264db303f235d2a285f8543019062edc944",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_ETERNA_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "61404637816b57af5af1",
+    "name": "FLog2_to_ETERNA-BB_33grid_V.1.00",
+    "url": "/luts/61404637816b57af5af1.cube",
+    "bytes": 970468,
+    "hash": "61404637816b57af5af17c82efc4b1349ab0f30a143795779b216b623b487ec3",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_ETERNA-BB_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "367024b32ca0f263e212",
+    "name": "FLog2_to_ETERNA-BB_65grid_V.1.00",
+    "url": "/luts/367024b32ca0f263e212.cube",
+    "bytes": 7415044,
+    "hash": "367024b32ca0f263e2122febd1b83a024d2ffc232a1770f8e061432468ffd5a6",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_ETERNA-BB_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "b8cca403d9448c7855e5",
+    "name": "FLog2_to_FLog2-709_33grid_V.1.00",
+    "url": "/luts/b8cca403d9448c7855e5.cube",
+    "bytes": 970433,
+    "hash": "b8cca403d9448c7855e5e02ba8a067281376269c269bab12afb0d3bc66c651ae",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_FLog2-709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "16fd6b1f65cb0c7bceb7",
+    "name": "FLog2_to_FLog2-709_65grid_V.1.00",
+    "url": "/luts/16fd6b1f65cb0c7bceb7.cube",
+    "bytes": 7415009,
+    "hash": "16fd6b1f65cb0c7bceb7068f8ca8e1f289460e66597b12756bd4fe0af1c56a0f",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_FLog2-709_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "a2fe3a8a1730c8428d18",
+    "name": "FLog2_to_PRO-Neg.Std_33grid_V.1.00",
+    "url": "/luts/a2fe3a8a1730c8428d18.cube",
+    "bytes": 970461,
+    "hash": "a2fe3a8a1730c8428d1878a7628c45a452c8031990e13fb4b9680d3cc4fb9680",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_PRO-Neg.Std_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "3cf531162720aa31ac09",
+    "name": "FLog2_to_PRO-Neg.Std_65grid_V.1.00",
+    "url": "/luts/3cf531162720aa31ac09.cube",
+    "bytes": 7415036,
+    "hash": "3cf531162720aa31ac09609f3dec5aca7680a4c07887cbc8502468533b434cdc",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_PRO-Neg.Std_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "6b603a266584f19a988a",
+    "name": "FLog2_to_PROVIA_33grid_V.1.00",
+    "url": "/luts/6b603a266584f19a988a.cube",
+    "bytes": 970451,
+    "hash": "6b603a266584f19a988a352bc311ea64192fe460ed3493fe97aeef5afbe8a239",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_PROVIA_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "322d1fc83072ebd4ba73",
+    "name": "FLog2_to_PROVIA_65grid_V.1.00",
+    "url": "/luts/322d1fc83072ebd4ba73.cube",
+    "bytes": 7415027,
+    "hash": "322d1fc83072ebd4ba73287f32b88bf7fc71582ea03da459fa976a3eb6cdc68f",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_PROVIA_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "99d30c17b9246130fe0b",
+    "name": "FLog2_to_REALA-ACE_33grid_V.1.00",
+    "url": "/luts/99d30c17b9246130fe0b.cube",
+    "bytes": 970457,
+    "hash": "99d30c17b9246130fe0b4ae37e0207adb811e39ce4eb092f9186072173982749",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_REALA-ACE_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "a57a8473d666eda294ca",
+    "name": "FLog2_to_REALA-ACE_65grid_V.1.00",
+    "url": "/luts/a57a8473d666eda294ca.cube",
+    "bytes": 7415033,
+    "hash": "a57a8473d666eda294ca3c32886af7708d7097d185c20240a290e3c2a0cb7c2b",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_REALA-ACE_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "1e7cea327d920e50dcfa",
+    "name": "FLog2_to_Velvia_33grid_V.1.00",
+    "url": "/luts/1e7cea327d920e50dcfa.cube",
+    "bytes": 970451,
+    "hash": "1e7cea327d920e50dcfafeb16e463d596cf7940ab211f8b5b66ebf91769e0de6",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_Velvia_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "80a9ac219c30e9d1c230",
+    "name": "FLog2_to_Velvia_65grid_V.1.00",
+    "url": "/luts/80a9ac219c30e9d1c230.cube",
+    "bytes": 7415027,
+    "hash": "80a9ac219c30e9d1c230bd157d96ab25c2e6052de3bad7dc650823de65a0ac77",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_Velvia_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "db95d527328930ea2212",
+    "name": "FLog2_to_WDR-709_33grid_V.1.00",
+    "url": "/luts/db95d527328930ea2212.cube",
+    "bytes": 970445,
+    "hash": "db95d527328930ea22120fc1ed987d2caaabaee41a214ed4715846583003c096",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2\\FLog2_to_WDR-709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "9f478280c8c77d11ac15",
+    "name": "FLog2_to_WDR-709_65grid_V.1.00",
+    "url": "/luts/9f478280c8c77d11ac15.cube",
+    "bytes": 7415021,
+    "hash": "9f478280c8c77d11ac15d7eb0625e32a1c7005cafaa1a89b1a2c74c7f3ad7bc2",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2\\FLog2_to_WDR-709_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "5311db0829e35bc6b121",
+    "name": "FLog2C_to_ACROS_33grid_V.1.00",
+    "url": "/luts/5311db0829e35bc6b121.cube",
+    "bytes": 970452,
+    "hash": "5311db0829e35bc6b1218ea7737732d5ecef3ef2c0bcd8569d9a5ca0bc5dc208",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_ACROS_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "e3bfa0a86289bec89ee2",
+    "name": "FLog2C_to_ACROS_65grid_V.1.00",
+    "url": "/luts/e3bfa0a86289bec89ee2.cube",
+    "bytes": 7415028,
+    "hash": "e3bfa0a86289bec89ee237d5309850636b89f744dce8efc40b4884e78d0ce35b",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_ACROS_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "8478ad92f275c86cd27a",
+    "name": "FLog2C_to_ASTIA_33grid_V.1.00",
+    "url": "/luts/8478ad92f275c86cd27a.cube",
+    "bytes": 970452,
+    "hash": "8478ad92f275c86cd27ad1530c4a3f02d682a6f962c69a248266e74f245d1289",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_ASTIA_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "3d97725207307ab88fd3",
+    "name": "FLog2C_to_ASTIA_65grid_V.1.00",
+    "url": "/luts/3d97725207307ab88fd3.cube",
+    "bytes": 7415028,
+    "hash": "3d97725207307ab88fd3cf3680745b257f11f8fb9bc17c4a72f1e725f65792d7",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_ASTIA_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "922182088e8ba42fd627",
+    "name": "FLog2C_to_CLASSIC-CHROME_33grid_V.1.00",
+    "url": "/luts/922182088e8ba42fd627.cube",
+    "bytes": 970470,
+    "hash": "922182088e8ba42fd627dca3ab2622401158fe861bf06ad9e5c4239f51c9a37b",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_CLASSIC-CHROME_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "0facba9d21fd9cf8e4f5",
+    "name": "FLog2C_to_CLASSIC-CHROME_65grid_V.1.00",
+    "url": "/luts/0facba9d21fd9cf8e4f5.cube",
+    "bytes": 7415046,
+    "hash": "0facba9d21fd9cf8e4f5115c539d313345f70a10fc226a966871b1307e6e2b70",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_CLASSIC-CHROME_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "2aea8841704e59abde71",
+    "name": "FLog2C_to_CLASSIC-Neg._33grid_V.1.00",
+    "url": "/luts/2aea8841704e59abde71.cube",
+    "bytes": 970466,
+    "hash": "2aea8841704e59abde711db68d75dbd7b06b1a6380cfe56eea187e09b1c1ff43",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_CLASSIC-Neg._33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "e2258ae8ec0adff65b19",
+    "name": "FLog2C_to_CLASSIC-Neg._65grid_V.1.00",
+    "url": "/luts/e2258ae8ec0adff65b19.cube",
+    "bytes": 7415042,
+    "hash": "e2258ae8ec0adff65b193e4ae9effa598e4818e9264ff3512118d0868c2c6b14",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_CLASSIC-Neg._65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "db1601fee97ff2127b31",
+    "name": "FLog2C_to_ETERNA_33grid_V.1.00",
+    "url": "/luts/db1601fee97ff2127b31.cube",
+    "bytes": 970454,
+    "hash": "db1601fee97ff2127b31a75b8ff1c28147406e22855f9c70076e27d35543bfea",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_ETERNA_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "0c073d61aa5ef5f52682",
+    "name": "FLog2C_to_ETERNA_65grid_V.1.00",
+    "url": "/luts/0c073d61aa5ef5f52682.cube",
+    "bytes": 7415030,
+    "hash": "0c073d61aa5ef5f52682b148b2a6ef97262a29023d90335f804ac83524e858cf",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_ETERNA_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "05be042e8ab4aa187cf0",
+    "name": "FLog2C_to_ETERNA-BB_33grid_V.1.00",
+    "url": "/luts/05be042e8ab4aa187cf0.cube",
+    "bytes": 970471,
+    "hash": "05be042e8ab4aa187cf08abb01ddbfee38f218c87464297d4eddba7e32ca974b",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_ETERNA-BB_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "c538fe12c8d97f9a0f73",
+    "name": "FLog2C_to_ETERNA-BB_65grid_V.1.00",
+    "url": "/luts/c538fe12c8d97f9a0f73.cube",
+    "bytes": 7415047,
+    "hash": "c538fe12c8d97f9a0f7391daf4a130484d4ddbf35dfaad21541a2f80f3d1e635",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_ETERNA-BB_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "c3884bd268c0f9f29fa1",
+    "name": "FLog2C_to_FLog2C-709_33grid_V.1.00",
+    "url": "/luts/c3884bd268c0f9f29fa1.cube",
+    "bytes": 970438,
+    "hash": "c3884bd268c0f9f29fa1e27d0f01f78e045205fa961980fbbfdf8884d8b77037",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_FLog2C-709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "aea1f4b7a0856b627206",
+    "name": "FLog2C_to_FLog2C-709_65grid_V.1.00",
+    "url": "/luts/aea1f4b7a0856b627206.cube",
+    "bytes": 7415015,
+    "hash": "aea1f4b7a0856b627206c14150666b2f00b47f1ab8a7a3b3b172ca3c66b31dba",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_FLog2C-709_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "10d2e83725075a933c71",
+    "name": "FLog2C_to_PRO-Neg.Std_33grid_V.1.00",
+    "url": "/luts/10d2e83725075a933c71.cube",
+    "bytes": 970464,
+    "hash": "10d2e83725075a933c7130af2653aa8671ccf746d0ed10c7785cee78d658c61e",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_PRO-Neg.Std_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "7b153987a48fcde0e696",
+    "name": "FLog2C_to_PRO-Neg.Std_65grid_V.1.00",
+    "url": "/luts/7b153987a48fcde0e696.cube",
+    "bytes": 7415040,
+    "hash": "7b153987a48fcde0e696c97111effc90960a3bd77bd4b870311c907a22d37d64",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_PRO-Neg.Std_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "dbcb2d683194b64275a9",
+    "name": "FLog2C_to_PROVIA_33grid_V.1.00",
+    "url": "/luts/dbcb2d683194b64275a9.cube",
+    "bytes": 970454,
+    "hash": "dbcb2d683194b64275a9437febd2b22532bd452154e7ae0db012de1121f77b2e",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_PROVIA_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "a1fb0cb782aee11c7028",
+    "name": "FLog2C_to_PROVIA_65grid_V.1.00",
+    "url": "/luts/a1fb0cb782aee11c7028.cube",
+    "bytes": 7415030,
+    "hash": "a1fb0cb782aee11c7028003f74bc13a38e670fd604afc75081cfb3afe21a5a95",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_PROVIA_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "80896400f0f3a200542b",
+    "name": "FLog2C_to_REALA-ACE_33grid_V.1.00",
+    "url": "/luts/80896400f0f3a200542b.cube",
+    "bytes": 970460,
+    "hash": "80896400f0f3a200542b139905136657ae97a1299de96a6f79df5a8d748fef30",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_REALA-ACE_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "f39235dc0efc52a972f6",
+    "name": "FLog2C_to_REALA-ACE_65grid_V.1.00",
+    "url": "/luts/f39235dc0efc52a972f6.cube",
+    "bytes": 7415036,
+    "hash": "f39235dc0efc52a972f645f1a4986c5fc8e8fb4cefdf2df38a4646967a9d419b",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_REALA-ACE_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "1d4b92c31b9c1014ebf5",
+    "name": "FLog2C_to_Velvia_33grid_V.1.00",
+    "url": "/luts/1d4b92c31b9c1014ebf5.cube",
+    "bytes": 970454,
+    "hash": "1d4b92c31b9c1014ebf52ec23cc9e57b7fac8256e258448de76c979930609b60",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_Velvia_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "309e20256431ef9d27af",
+    "name": "FLog2C_to_Velvia_65grid_V.1.00",
+    "url": "/luts/309e20256431ef9d27af.cube",
+    "bytes": 7415030,
+    "hash": "309e20256431ef9d27afcde147287ab8d89dcba11fc1f57d8621496f27488c8b",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_Velvia_65grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "b8a92446a1de7093c3af",
+    "name": "FLog2C_to_WDR-709_33grid_V.1.10",
+    "url": "/luts/b8a92446a1de7093c3af.cube",
+    "bytes": 970448,
+    "hash": "b8a92446a1de7093c3af9101ceef535b52abfe2357780f883e0482a19e078c6c",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\33Grid\\F-Log2C\\FLog2C_to_WDR-709_33grid_V.1.10.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "5ce5dcff50a9fba00b97",
+    "name": "FLog2C_to_WDR-709_65grid_V.1.10",
+    "url": "/luts/5ce5dcff50a9fba00b97.cube",
+    "bytes": 7415024,
+    "hash": "5ce5dcff50a9fba00b975db65a76f4aaac53de68111d37d461ce8c2775896752",
+    "gridSize": 65,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx-eterna-55-3d-lut-v110\\65Grid\\F-Log2C\\FLog2C_to_WDR-709_65grid_V.1.10.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "8e52b269ca7d129916d5",
+    "name": "Fuji Astia.jpg",
+    "url": "/luts/8e52b269ca7d129916d5.cube",
+    "bytes": 884991,
+    "hash": "8e52b269ca7d129916d5e2a07a81587fe543a98bffc1fa60a4f301bad141ecaa",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTsFujiAstiaPresetpro.zip!OPEN - Fuji Astia LUT/2. Presetpro - Fuji Astia LUT/Presetpro - Fuji Astia.cube",
+      "OPEN - Fuji Astia LUT\\2. Presetpro - Fuji Astia LUT\\Presetpro - Fuji Astia.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "30de4d33093df4ee4ab6",
+    "name": "Fuji Film",
+    "url": "/luts/30de4d33093df4ee4ab6.cube",
+    "bytes": 884998,
+    "hash": "30de4d33093df4ee4ab68c329755520f8d7ecd2ea5fd8b03e31cb91512061671",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "OPEN - Fuji Film LUTs\\2. Presetpro - Fuji Film LUT\\Presetpro - Fuji Film.cube",
+      "OPEN - Fuji Film LUTs Pro.zip!OPEN - Fuji Film LUTs/2. Presetpro - Fuji Film LUT/Presetpro - Fuji Film.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "3a7c4b5849da94a1dcec",
+    "name": "Fuji Portrait",
+    "url": "/luts/3a7c4b5849da94a1dcec.cube",
+    "bytes": 884990,
+    "hash": "3a7c4b5849da94a1dcec4a4363ef0006f35a8c7424fc21b46b9719e0369c4f19",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTFujiPortraitPresetpro.zip!OPEN - Fuji Portrait LUT/2. Presetpro - Fuji Portrait LUT/Presetpro - Fuji Portrait.cube",
+      "OPEN - Fuji Portrait LUT\\2. Presetpro - Fuji Portrait LUT\\Presetpro - Fuji Portrait.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "e72f86bfa2db109ef8d1",
+    "name": "GFX100II_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.00",
+    "url": "/luts/e72f86bfa2db109ef8d1.cube",
+    "bytes": 970442,
+    "hash": "e72f86bfa2db109ef8d1aaabe37a53182427f7cf727683ebb9bb3104ae8d1249",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "73afb0f4f7b63201de6f",
+    "name": "GFX100II_FLog_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00",
+    "url": "/luts/73afb0f4f7b63201de6f.cube",
+    "bytes": 970459,
+    "hash": "73afb0f4f7b63201de6f6665477b1fc687d3031c398ab657fed9fb19757825ec",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "bd36bc0277373e352ffa",
+    "name": "GFX100II_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00",
+    "url": "/luts/bd36bc0277373e352ffa.cube",
+    "bytes": 970439,
+    "hash": "bd36bc0277373e352ffafc4b81a9888bc1add8ee04bf0dac6d689a8b943b6fe9",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "6c0e327c2ba055e6ca53",
+    "name": "GFX100II_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00",
+    "url": "/luts/6c0e327c2ba055e6ca53.cube",
+    "bytes": 970457,
+    "hash": "6c0e327c2ba055e6ca539717c85b509aca91a14a6aa86b092474ed567d3873cf",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log\\GFX100II_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log\\GFX100RF_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "6831ae4fe939aa23bbe3",
+    "name": "GFX100II_FLog2_FGamut_to_ETERNA_BT.709_33grid_V.1.00",
+    "url": "/luts/6831ae4fe939aa23bbe3.cube",
+    "bytes": 970444,
+    "hash": "6831ae4fe939aa23bbe3839ec2a80e3ec7afb74019b1575019b14614c810febf",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "db9a8eb64a52f831dc97",
+    "name": "GFX100II_FLog2_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00",
+    "url": "/luts/db9a8eb64a52f831dc97.cube",
+    "bytes": 970461,
+    "hash": "db9a8eb64a52f831dc9735e32d3aa4bd453d6d2d9a57d6f8eb02d3674bb4bcd6",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "2d7a8b9ada47437cd546",
+    "name": "GFX100II_FLog2_FGamut_to_FLog2_BT.709_33grid_V.1.00",
+    "url": "/luts/2d7a8b9ada47437cd546.cube",
+    "bytes": 970443,
+    "hash": "2d7a8b9ada47437cd5461715f3c8cf4da3acaa5b2e74ea3097f9fe2e4d6cd60e",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_FLog2_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_FLog2_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_FLog2_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_FLog2_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "8658133b586630c47c0c",
+    "name": "GFX100II_FLog2_FGamut_to_WDR_BT.709_33grid_V.1.00",
+    "url": "/luts/8658133b586630c47c0c.cube",
+    "bytes": 970459,
+    "hash": "8658133b586630c47c0cd20a885a6d473e2537e7fa29987a70b716638055aa4c",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2\\GFX100II_FLog2_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100\\gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+      "gfx100rf-3d-lut-v100.zip!gfx100rf-3d-lut-v100\\F-Log2\\GFX100RF_FLog2_FGamut_to_WDR_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "be91c51b084ccd16fb99",
+    "name": "GFX100II_FLog2C_FGamutC_to_ETERNA_BT.709_33grid_V.1.00",
+    "url": "/luts/be91c51b084ccd16fb99.cube",
+    "bytes": 970448,
+    "hash": "be91c51b084ccd16fb99e4f88c72308071fe6b8b035b345ef2f4fc0e51990c93",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_ETERNA_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_ETERNA_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "d06d5c01984208493f89",
+    "name": "GFX100II_FLog2C_FGamutC_to_ETERNA-BB_BT.709_33grid_V.1.00",
+    "url": "/luts/d06d5c01984208493f89.cube",
+    "bytes": 970465,
+    "hash": "d06d5c01984208493f899924747c35ebe6851b0c1431d6cae7a7bef038b81760",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_ETERNA-BB_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "aeb428804894b1be8103",
+    "name": "GFX100II_FLog2C_FGamutC_to_FLog2C_BT.709_33grid_V.1.00",
+    "url": "/luts/aeb428804894b1be8103.cube",
+    "bytes": 970449,
+    "hash": "aeb428804894b1be81038f1688240fb49a6707c29376a6b46d2fd81b42f0a3cc",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_FLog2C_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_FLog2C_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "3c1bf2e58e2e06917bf6",
+    "name": "GFX100II_FLog2C_FGamutC_to_WDR_BT.709_33grid_V.1.00",
+    "url": "/luts/3c1bf2e58e2e06917bf6.cube",
+    "bytes": 970463,
+    "hash": "3c1bf2e58e2e06917bf66123bc404e987f5a248d92aa9e60c21d1cb8646c737d",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "gfx100II-3d-lut-v100\\gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_WDR_BT.709_33grid_V.1.00.cube",
+      "gfx100II-3d-lut-v100.zip!gfx100II-3d-lut-v100\\F-Log2C\\GFX100II_FLog2C_FGamutC_to_WDR_BT.709_33grid_V.1.00.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "20e4da37b22c091b54f6",
+    "name": "Kodak Color",
+    "url": "/luts/20e4da37b22c091b54f6.cube",
+    "bytes": 885000,
+    "hash": "20e4da37b22c091b54f62ae89926df4089d71a4b1cd375464c34864cf98fe4dc",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "OPEN - Kodak Color LUTs\\2. Presetpro - Kodak Color Pro\\Presetpro - Kodak Color.cube",
+      "OPEN - Kodak Color LUTs Pro.zip!OPEN - Kodak Color LUTs/2. Presetpro - Kodak Color Pro/Presetpro - Kodak Color.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "3c9563258979bb8cb5da",
+    "name": "Landscape",
+    "url": "/luts/3c9563258979bb8cb5da.cube",
+    "bytes": 884998,
+    "hash": "3c9563258979bb8cb5da6729d62e47de05175b909e3ae60d9aebc80d90ecf33a",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "OPEN - Landscape LUTs\\2. Presetpro - Landscape LUT\\Presetpro - Landscape.cube",
+      "OPEN - Landscape LUTs Pro.zip!OPEN - Landscape LUTs/2. Presetpro - Landscape LUT/Presetpro - Landscape.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "9c20de79ce675309eb0e",
+    "name": "Lomography.jpg",
+    "url": "/luts/9c20de79ce675309eb0e.cube",
+    "bytes": 884991,
+    "hash": "9c20de79ce675309eb0e973286baf803d18a5e95fcad616c2cac9a8824e6106a",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTsLomographyPresetpro.zip!OPEN - Lomography LUT/2. Presetpro - Lomography LUT/Presetpro - Lomography.cube",
+      "OPEN - Lomography LUT\\2. Presetpro - Lomography LUT\\Presetpro - Lomography.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "9391c05fd91cca4aeeb6",
+    "name": "Moody Stock.jpg",
+    "url": "/luts/9391c05fd91cca4aeeb6.cube",
+    "bytes": 884980,
+    "hash": "9391c05fd91cca4aeeb6be0650a808a73676f96b8a6b85c163239db0fa7153d2",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTsMoodyStock.zip!OPEN - Moody Stock LUT/2. Presetpro - Moody Stock LUT/Presetpro - Moody Stock.cube",
+      "OPEN - Moody Stock LUT\\2. Presetpro - Moody Stock LUT\\Presetpro - Moody Stock.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "e79352117dd22236bba6",
+    "name": "Movie Film.jpg",
+    "url": "/luts/e79352117dd22236bba6.cube",
+    "bytes": 884976,
+    "hash": "e79352117dd22236bba634c8a572a4f9fd7b7c9e196d574fc2c9514ec3c36665",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LookupTableMovieFilmLUTPresetpro.zip!OPEN - Movie Film LUT/2. Presetpro - Movie Film LUT/Presetpro - Movie Film.CUBE",
+      "OPEN - Movie Film LUT\\2. Presetpro - Movie Film LUT\\Presetpro - Movie Film.CUBE"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "e79931ea02b6b83b9b60",
+    "name": "Portra",
+    "url": "/luts/e79931ea02b6b83b9b60.cube",
+    "bytes": 884983,
+    "hash": "e79931ea02b6b83b9b60a0becdf6097e8d55f8331ef7f1cdf693a57077e52b31",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTsPortraPresetpro.zip!OPEN - Portra/2. Presetpro - Porta/Presetpro - Portra.cube",
+      "OPEN - Portra\\2. Presetpro - Porta\\Presetpro - Portra.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "acbaaeb2489b60a04bff",
+    "name": "Portrait Film",
+    "url": "/luts/acbaaeb2489b60a04bff.cube",
+    "bytes": 885002,
+    "hash": "acbaaeb2489b60a04bff032c214225819affeddc58600d3f2848ed0ccf496542",
+    "gridSize": 32,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "OPEN - Portrait LUTs\\2. Presetpro - Portrait LUT\\Presetpro - Portrait Film.cube",
+      "OPEN - Portrait LUTs Pro.zip!OPEN - Portrait LUTs/2. Presetpro - Portrait LUT/Presetpro - Portrait Film.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "c550846ddce67da81685",
+    "name": "Scenery",
+    "url": "/luts/c550846ddce67da81685.cube",
+    "bytes": 7078007,
+    "hash": "c550846ddce67da816857f22e16ba2332683aa5aa22a6a4f99906242ba453e2d",
+    "gridSize": 64,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "OPEN - Scenery LUT\\2. Presetpro - Scenery LUT\\Presetpro - Scenery.cube",
+      "SceneryLUT.zip!OPEN - Scenery LUT/2. Presetpro - Scenery LUT/Presetpro - Scenery.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "89cfada76aaf8f0d8586",
+    "name": "Shades LUT",
+    "url": "/luts/89cfada76aaf8f0d8586.cube",
+    "bytes": 7078017,
+    "hash": "89cfada76aaf8f0d85860cc03d974eea1deb702f9acc1e50b196127e01afeb25",
+    "gridSize": 64,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "OPEN - Shades LUT\\2. Presetpro - Shades LUT\\Presetpro - Shades LUT.cube",
+      "OPEN - Shades LUT.zip!OPEN - Shades LUT/2. Presetpro - Shades LUT/Presetpro - Shades LUT.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "e6c871f6c18c6fadd11a",
+    "name": "Valley Mist",
+    "url": "/luts/e6c871f6c18c6fadd11a.cube",
+    "bytes": 7078018,
+    "hash": "e6c871f6c18c6fadd11a7b065c77e3028847d85a684b714019eb63f96dfacfcc",
+    "gridSize": 64,
+    "category": "creative",
+    "input": "Unspecified by vendor; display RGB assumption",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "LUTsValleyMistPresetpro.com.zip!OPEN - Valley Mist LUT Pro/2. Presetpro - Valley Mist LUT/Presetpro - Valley Mist.cube",
+      "OPEN - Valley Mist LUT Pro\\2. Presetpro - Valley Mist LUT\\Presetpro - Valley Mist.cube"
+    ],
+    "attribution": "Original LUT creator; see source metadata",
+    "compatibility": "unverified-display-rgb"
+  },
+  {
+    "id": "b33b1d3b5176ebd44bae",
+    "name": "XPro3_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.01",
+    "url": "/luts/b33b1d3b5176ebd44bae.cube",
+    "bytes": 970442,
+    "hash": "b33b1d3b5176ebd44baee7082ea9479c928cfe5ff087f9940463d123538aaf1f",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "x-pro3-3d-lut-v101\\F-Log\\XPro3_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.01.cube",
+      "X100V_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.01.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "d7ac880cb09b4c0e80fd",
+    "name": "XPro3_FLog_FGamut_to_FLog_BT.709_33grid_V.1.01",
+    "url": "/luts/d7ac880cb09b4c0e80fd.cube",
+    "bytes": 970439,
+    "hash": "d7ac880cb09b4c0e80fdcd98825e6cc3d97edf47335d2b24e1a65d8695666e3b",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "x-pro3-3d-lut-v101\\F-Log\\XPro3_FLog_FGamut_to_FLog_BT.709_33grid_V.1.01.cube",
+      "X100V_FLog_FGamut_to_FLog_BT.709_33grid_V.1.01.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "ee7555f02ca710b7864d",
+    "name": "XPro3_FLog_FGamut_to_WDR_BT.709_33grid_V.1.01",
+    "url": "/luts/ee7555f02ca710b7864d.cube",
+    "bytes": 970457,
+    "hash": "ee7555f02ca710b7864d7baff1c724ad7104055b81595ab029cc60d32fa1b8a4",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "x-pro3-3d-lut-v101\\F-Log\\XPro3_FLog_FGamut_to_WDR_BT.709_33grid_V.1.01.cube",
+      "X100V_FLog_FGamut_to_WDR_BT.709_33grid_V.1.01.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "87c161d0015a26f75aa8",
+    "name": "XT2_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.01",
+    "url": "/luts/87c161d0015a26f75aa8.cube",
+    "bytes": 970442,
+    "hash": "87c161d0015a26f75aa8c608ffd8fb28fa63a2ec7ee44994186e9e185cb5365a",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "x-t2-3d-lut-v101\\F-Log\\XT2_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.01.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "bcf02837a6be52d376cc",
+    "name": "XT2_FLog_FGamut_to_FLog_BT.709_33grid_V.1.01",
+    "url": "/luts/bcf02837a6be52d376cc.cube",
+    "bytes": 970439,
+    "hash": "bcf02837a6be52d376ccc3b8d0b86702380be542ff168bdf5735728ffff69690",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "x-t2-3d-lut-v101\\F-Log\\XT2_FLog_FGamut_to_FLog_BT.709_33grid_V.1.01.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  },
+  {
+    "id": "37e1b4d838d4bb6fa22a",
+    "name": "XT2_FLog_FGamut_to_WDR_BT.709_33grid_V.1.01",
+    "url": "/luts/37e1b4d838d4bb6fa22a.cube",
+    "bytes": 970457,
+    "hash": "37e1b4d838d4bb6fa22adde953d97926ef41c6d14aa785229db04f8cb26f4f76",
+    "gridSize": 33,
+    "category": "technical",
+    "input": "Matching Fujifilm log/gamut required",
+    "output": "Vendor-defined; verify against reference",
+    "sources": [
+      "x-t2-3d-lut-v101\\F-Log\\XT2_FLog_FGamut_to_WDR_BT.709_33grid_V.1.01.cube"
+    ],
+    "attribution": "Fujifilm",
+    "compatibility": "requires-log"
+  }
+]
