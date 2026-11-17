@@ -1,7 +1,7 @@
 [
   {
     "id": "03e524662d256941f1c1",
-    "name": "Cinematic Grade.jpg",
+    "name": "Cinematic Grade",
     "url": "/luts/03e524662d256941f1c1.cube",
     "bytes": 884996,
     "hash": "03e524662d256941f1c14df1ab9ca1fbe31738ba9ecac64d55e414da6a323ff7",
@@ -36,7 +36,7 @@
   },
   {
     "id": "eea6065351fc016b5eb7",
-    "name": "Concrete Jungle.jpg",
+    "name": "Concrete Jungle",
     "url": "/luts/eea6065351fc016b5eb7.cube",
     "bytes": 884996,
     "hash": "eea6065351fc016b5eb7f44110627afce717cc14c8361dfeb07f3dcfd69f8e21",
@@ -70,7 +70,7 @@
   },
   {
     "id": "6672d813412cf1529bd6",
-    "name": "Film Style.jpg",
+    "name": "Film Style",
     "url": "/luts/6672d813412cf1529bd6.cube",
     "bytes": 884991,
     "hash": "6672d813412cf1529bd66071c70dc4d93d95c110b146762f303f645c0a8b0523",
@@ -983,7 +983,7 @@
   },
   {
     "id": "8e52b269ca7d129916d5",
-    "name": "Fuji Astia.jpg",
+    "name": "Fuji Astia",
     "url": "/luts/8e52b269ca7d129916d5.cube",
     "bytes": 884991,
     "hash": "8e52b269ca7d129916d5e2a07a81587fe543a98bffc1fa60a4f301bad141ecaa",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": "9c20de79ce675309eb0e",
-    "name": "Lomography.jpg",
+    "name": "Lomography",
     "url": "/luts/9c20de79ce675309eb0e.cube",
     "bytes": 884991,
     "hash": "9c20de79ce675309eb0e973286baf803d18a5e95fcad616c2cac9a8824e6106a",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": "9391c05fd91cca4aeeb6",
-    "name": "Moody Stock.jpg",
+    "name": "Moody Stock",
     "url": "/luts/9391c05fd91cca4aeeb6.cube",
     "bytes": 884980,
     "hash": "9391c05fd91cca4aeeb6be0650a808a73676f96b8a6b85c163239db0fa7153d2",
@@ -1322,7 +1322,7 @@
   },
   {
     "id": "e79352117dd22236bba6",
-    "name": "Movie Film.jpg",
+    "name": "Movie Film",
     "url": "/luts/e79352117dd22236bba6.cube",
     "bytes": 884976,
     "hash": "e79352117dd22236bba634c8a572a4f9fd7b7c9e196d574fc2c9514ec3c36665",

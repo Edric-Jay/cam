@@ -36,6 +36,7 @@ import {
 } from "lucide-react";
 import { parseCube, type Cube } from "@/lib/cube";
 import { Renderer, renderPhoto } from "@/lib/renderer";
+import { requestMaximumQuality } from "@/lib/camera-quality";
 import { getPhotos, savePhoto, deletePhoto, type Photo } from "@/lib/storage";
 type Look = {
   id: string;
@@ -51,8 +52,8 @@ type Range = { min: number; max: number; step?: number };
 type Caps = Record<string, Range | string[] | boolean[] | undefined>;
 type Settings = Record<string, string | number | boolean | undefined>;
 type CaptureApi = {
-  takePhoto: (options?: {fillLightMode?:string}) => Promise<Blob>;
-  getPhotoCapabilities?: () => Promise<{ fillLightMode?: string[] }>;
+  takePhoto: (options?: {fillLightMode?:string;imageWidth?:number;imageHeight?:number}) => Promise<Blob>;
+  getPhotoCapabilities?: () => Promise<{ fillLightMode?: string[];imageWidth?:Range;imageHeight?:Range }>;
 };
 type InstallEvent = Event & {
   prompt: () => Promise<void>;
@@ -173,7 +174,6 @@ export default function Camera() {
     [install, setInstall] = useState<InstallEvent | null>(null),
     [update, setUpdate] = useState<ServiceWorker | null>(null),
     [mirror, setMirror] = useState(true),
-    [thumbnails, setThumbnails] = useState<Record<string, string>>({}),
     [prefsReady, setPrefsReady] = useState(false),
     [portrait, setPortrait] = useState(true),
     [fps, setFps] = useState<number | null>(null),
@@ -181,6 +181,7 @@ export default function Camera() {
     [fillLight,setFillLight]=useState('off');
   const selectedLook = manifest.find((x) => lookId==='default'?x.name==='Portra':x.id === lookId);
   const lookName = selectedLook?.name || "Original";
+  const thumbnails: Record<string,string> = Object.fromEntries([["original","/look-previews/original.webp"], ...manifest.filter(l=>l.category==="creative").map(l=>[l.id,`/look-previews/${l.id}.webp`])]);
   const aspect = portrait ? ratioValues[ratio] : 1 / ratioValues[ratio];
   const isMirrored = !imported && settings.facingMode === "user" && mirror;
   const latest = useRef({
@@ -340,8 +341,7 @@ export default function Camera() {
       raf = 0,
       vfc = 0,
       last = performance.now(),
-      frames = 0,
-      previewLimit = 1440;
+      frames = 0;
     let frameDirty = true, previousRecipe = '', previousCube: Cube | null = null;
     const c = canvas.current!,
       v = video.current!;
@@ -372,7 +372,7 @@ export default function Camera() {
             s.aspect,
             s.original ? 0 : s.strength / 100,
             s.isMirrored,
-            previewLimit,
+            Infinity,
           );
           previousRecipe = recipe; previousCube = cube.current;
           if (frameDirty) frames++;
@@ -382,8 +382,6 @@ export default function Camera() {
             const measured = Math.round((frames * 1000) / (now - last));
             if (!s.imported) {
               setFps(measured);
-              if (measured < 24)
-                previewLimit = Math.max(640, previewLimit - 160);
             }
             frames = 0;
             last = now;
@@ -455,14 +453,16 @@ export default function Camera() {
           ...(deviceId
             ? { deviceId: { exact: deviceId } }
             : { facingMode: { ideal: "environment" } }),
-          width: { ideal: 1920 },
-          height: { ideal: 1440 },
+          width: { ideal: 7680 },
+          height: { ideal: 4320 },
         },
       });
       if (token !== generation.current) {
         media.getTracks().forEach((t) => t.stop());
         return;
       }
+      await requestMaximumQuality(media.getVideoTracks()[0]);
+      if (token !== generation.current) { media.getTracks().forEach(t=>t.stop()); return; }
       stream.current = media;
       bitmap.current?.close();
       bitmap.current = null;
@@ -576,7 +576,10 @@ export default function Camera() {
       ).ImageCapture;
       if (!imported && track && constructor) {
         try {
-          const raw = await new constructor(track).takePhoto(fillLightModes.length?{fillLightMode:recipe.fillLight}:undefined);
+          const photoCamera = new constructor(track);
+          const photoCaps = await photoCamera.getPhotoCapabilities?.().catch(()=>undefined);
+          const light = fillLightModes.length ? {fillLightMode:recipe.fillLight} : {};
+          const raw = await photoCamera.takePhoto({...light,...(photoCaps?.imageWidth?.max?{imageWidth:photoCaps.imageWidth.max}:{}),...(photoCaps?.imageHeight?.max?{imageHeight:photoCaps.imageHeight.max}:{})}).catch(()=>photoCamera.takePhoto(light));
           source = await createImageBitmap(raw, {
             imageOrientation: "from-image",
           });
@@ -664,61 +667,6 @@ export default function Camera() {
     setFavorites((f) =>
       f.includes(id) ? f.filter((x) => x !== id) : [...f, id],
     );
-  useEffect(() => {
-    if (panel !== "looks" || !ready || !gpu) return;
-    let canceled = false;
-    let renderer: Renderer | null = null;
-    let source: ImageBitmap | null = null;
-    const urls: string[] = [];
-    void (async () => {
-      try {
-        source = await createImageBitmap(
-          latest.current.imported ? bitmap.current! : video.current!,
-        );
-        const c = document.createElement("canvas");
-        renderer = new Renderer(c);
-        const results: Record<string, string> = {};
-        for (const look of [
-          null,
-          ...manifest.filter((l) => l.category === "creative"),
-        ]) {
-          if (canceled) break;
-          try {
-              renderer.setCube(look ? await loadCube(look,true) : null);
-            renderer.draw(
-              source,
-              source.width,
-              source.height,
-              1,
-              1,
-              latest.current.isMirrored,
-              160,
-            );
-            const blob = await new Promise<Blob | null>((r) =>
-              c.toBlob(r, "image/jpeg", 0.75),
-            );
-            if (blob) {
-              const url = URL.createObjectURL(blob);
-              urls.push(url);
-              results[look?.id || "original"] = url;
-            }
-            if (!canceled) setThumbnails({ ...results });
-          } catch {}
-          await new Promise((r) => setTimeout(r, 0));
-        }
-      } catch {
-      } finally {
-        renderer?.destroy(true);
-        source?.close();
-        if (canceled) urls.forEach(URL.revokeObjectURL);
-      }
-    })();
-    return () => {
-      canceled = true;
-      urls.forEach(URL.revokeObjectURL);
-      setThumbnails({});
-    };
-  }, [panel, ready, gpu, manifest]);
   const visibleLooks = manifest.filter(
     (l) =>
       l.category === "creative" &&
@@ -1232,7 +1180,7 @@ export default function Camera() {
                 )}
                 <p className="sheet-note">
                   Creative LUTs use a display-RGB assumption; vendor input
-                  spaces are unspecified. Previews show 100% intensity.
+                  spaces are unspecified. Every preview uses the same reference photograph at 100% intensity.
                 </p>
                 <details className="technical">
                   <summary>

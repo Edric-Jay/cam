@@ -26,7 +26,7 @@ async function ingest(file: string, bytes: Uint8Array) {
     const technical = /f-?log/i.test(file);
     const name = (
       cube.title || path.basename(file).replace(/\.cube$/i, "")
-    ).replace(/^Presetpro\s*-\s*/i, "");
+    ).replace(/^Presetpro\s*-\s*/i, "").replace(/\.(jpe?g|png)$/i, "");
     const id = hash.slice(0, 20);
     await fs.writeFile(path.join(output, `${id}.cube`), bytes);
     seen.set(hash, {

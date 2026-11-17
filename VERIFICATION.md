@@ -1,5 +1,16 @@
 # Verification — 17 November 2026
 
+## Fixed-reference thumbnails and camera-quality update
+
+- TypeScript, ESLint and production build passed.
+- 7 unit tests passed; maximum-quality capability requests and unsupported-constraint recovery are covered.
+- 11 browser tests passed in 21.8 seconds. New tests verify all 19 fixed reference thumbnails load before camera permission, remain unchanged after photo import, and that live preview canvas dimensions equal the full source crop and remain constant beyond the former automatic-downscaling interval.
+- All creative thumbnails are generated from one bundled landscape photograph. They are included in the offline shell.
+- Removed adaptive 1440-to-640px preview degradation and the fixed 8192px export cap. Browser/device and GPU limits still apply. Maximum still-photo dimensions are requested separately from video-stream dimensions.
+- This update does not change the physical-device testing limitations below. The prior deployment archive predates this update; use `npm run build` for the current output.
+
+## Initial build record
+
 - TypeScript: passed.
 - ESLint: passed with no warnings.
 - Production Next.js static export and generated offline worker: passed.

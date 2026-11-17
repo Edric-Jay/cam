@@ -37,7 +37,7 @@ The importer reads extracted files and safe ZIP entries, validates 3D cube data,
 
 Fujifilm log transforms are listed separately and cannot be selected for ordinary camera frames. Creative LUT input spaces are not specified by their metadata; the app explicitly uses display-referred browser RGB as an assumption. This is not a calibrated native camera or Fujifilm color emulation guarantee. Source comments and attribution remain in the cube assets. No blanket public redistribution license was found; the supplied deployment stays owner-private. Review the vendors' terms before making the library public or repackaging it commercially.
 
-LUTs are fetched lazily. Only selected looks are stored in the bounded offline LUT cache (16 entries); library thumbnails use transient downloads, not bulk offline caching. Photo thumbnails and previews are rendered from actual image data. Source LUT files total approximately 293 MB, but are not all downloaded on installation.
+LUTs are fetched lazily. Only selected looks are stored in the bounded offline LUT cache (16 entries). The library uses bundled thumbnails of one fixed landscape photograph, graded at 100% with each real LUT. They appear before camera permission, never use camera/imported images, and are cached with the app shell. Run `npm run previews:luts` to regenerate them; importing LUTs also runs this step. Attribution is in `public/REFERENCE.md`. Source LUT files total approximately 293 MB, but are not all downloaded on installation.
 
 ## Architecture
 
@@ -48,7 +48,7 @@ LUTs are fetched lazily. Only selected looks are stored in the bounded offline L
 - `scripts/import-luts.ts`: asset ingest, ZIP path validation, provenance and manifest.
 - `scripts/offline.mjs`: app-shell precache and bounded selected-LUT cache. Updates wait for the user to apply them.
 
-The renderer follows video frame callbacks with an animation-frame scheduling fallback, and reduces preview resolution under low throughput. Captures use `ImageCapture.takePhoto()` where it succeeds, then grade the returned image. Video-frame capture is the fallback. Different browser still/video processing can cause differences in exposure, color, field of view or resolution; the app uses identical grading, center crop and mirroring but cannot override a device's ISP. Still exports are limited to an 8192px longest edge by the renderer. No video recording, RAW, fabricated optical lens controls, or backend photo synchronization is included.
+The renderer follows video frame callbacks with an animation-frame scheduling fallback and preserves the full source crop resolution without a 1440px cap or frame-rate-driven reductions. The camera requests its advertised maximum stream dimensions and native resize mode where supported; settings shows the actual accepted dimensions. Captures request maximum `ImageCapture` still dimensions, retry default still settings if needed, then fall back to a video frame. Preview/export dimensions are bounded only by the device's WebGL renderbuffer limit. Different browser still/video processing can cause differences in exposure, color, field of view or resolution; the app uses identical grading, center crop and mirroring but cannot override a device's ISP. Browser camera quality is not guaranteed to equal a native camera app. No video recording, RAW, fabricated optical lens controls, or backend photo synchronization is included.
 
 ## Verify
 

@@ -10,9 +10,10 @@
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",
     "test": "tsx --test tests/*.test.ts",
-    "import:luts": "tsx scripts/import-luts.ts",
+    "import:luts": "tsx scripts/import-luts.ts && tsx scripts/lut-previews.ts",
     "icons": "node scripts/icons.mjs",
-    "test:browser": "playwright test"
+    "test:browser": "playwright test",
+    "previews:luts": "tsx scripts/lut-previews.ts"
   },
   "dependencies": {
     "next": "16.4.6",
