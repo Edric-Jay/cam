@@ -9,11 +9,11 @@ test('bundled v2 look applies directly and remains usable offline', async ({page
   await page.getByRole('button', {name:'Choose look. Current: Portra'}).click();
   await expect(page.getByText('Select a look to apply')).toBeVisible();
   const card = page.locator('.look-card').filter({has:page.getByText(look.name,{exact:true})});
-  await expect(card).toContainText('Included');
+  await expect(card).toContainText('Best for:');
   const response = page.waitForResponse(r=>new URL(r.url()).pathname===look.url && r.ok());
   await card.click();
   await response;
-  await expect(card).toContainText('Available offline');
+  await expect.poll(()=>page.evaluate(async url=>Boolean(await caches.match(url)),look.url)).toBe(true);
   await page.getByRole('button',{name:'Close panel'}).click();
   await expect(page.getByRole('button',{name:`Choose look. Current: ${look.name}`})).toBeVisible();
   await context.setOffline(true);

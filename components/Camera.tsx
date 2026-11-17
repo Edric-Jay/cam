@@ -37,6 +37,7 @@ import {
 import { parseCube, type Cube } from "@/lib/cube";
 import { Renderer, renderPhoto } from "@/lib/renderer";
 import { requestMaximumQuality } from "@/lib/camera-quality";
+import { bestForLook } from "@/lib/look-suggestions";
 import { getPhotos, savePhoto, deletePhoto, type Photo } from "@/lib/storage";
 type Look = {
   id: string;
@@ -1128,7 +1129,7 @@ export default function Camera() {
                         </span>
                       </div>
                       <strong>Original</strong>
-                      <small>No color grade</small>
+                      <small><b>Best for:</b> Natural colors and an ungraded reference</small>
                     </button>
                   )}
                   {visibleLooks.map((l) => (
@@ -1162,13 +1163,7 @@ export default function Camera() {
                           </span>
                         </div>
                         <strong>{l.name}</strong>
-                        <small>
-                          {downloaded.includes(l.id)
-                            ? "Available offline"
-                            : offline
-                              ? "Needs connection"
-                              : "Included"}
-                        </small>
+                        <small><b>Best for:</b> {bestForLook(l.name)}</small>
                       </button>
                       <IconButton
                         label={`${favorites.includes(l.id) ? "Unfavorite" : "Favorite"} ${l.name}`}
